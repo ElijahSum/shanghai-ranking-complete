@@ -1,0 +1,801 @@
+,year,world_rank,institution,country_name,total_score,award
+0,2017,1,Harvard University,us,100.0,100.0
+1,2017,2,Stanford University,us,76.5,44.5
+2,2017,3,University of Cambridge,gb,70.9,81.4
+3,2017,4,Massachusetts Institute of Technology (MIT),us,70.4,68.7
+4,2017,5,"University of California, Berkeley",us,69.1,64.4
+5,2017,6,Princeton University,us,61.1,54.4
+6,2017,7,University of Oxford,gb,60.1,50.8
+7,2017,8,Columbia University,us,58.8,62.8
+8,2017,9,California Institute of Technology,us,57.3,50.5
+9,2017,10,University of Chicago,us,53.9,59.2
+10,2017,11,Yale University,us,52.8,47.1
+11,2017,12,"University of California, Los Angeles",us,52.5,29.2
+12,2017,13,University of Washington,us,50.3,20.9
+13,2017,14,Cornell University,us,49.6,43.1
+14,2017,15,"University of California, San Diego",us,49.5,19.0
+15,2017,16,University College London,gb,47.1,27.8
+16,2017,17,University of Pennsylvania,us,46.0,31.3
+17,2017,18,Johns Hopkins University,us,45.7,37.3
+18,2017,19,Swiss Federal Institute of Technology Zurich,ch,44.1,29.2
+19,2017,20,Washington University in St. Louis,us,43.3,22.7
+20,2017,21,"University of California, San Francisco",us,42.4,0.0
+21,2017,22,Northwestern University,us,41.9,15.2
+22,2017,23,University of Toronto,ca,41.6,19.7
+23,2017,24,The University of Tokyo,jp,41.5,38.3
+24,2017,24,University of Michigan-Ann Arbor,us,41.5,34.1
+25,2017,26,Duke University,us,41.0,15.2
+26,2017,27,Imperial College London,gb,40.9,14.4
+27,2017,28,University of Wisconsin - Madison,us,39.7,32.5
+28,2017,29,New York University,us,38.6,29.6
+29,2017,30,University of Copenhagen,dk,38.5,21.5
+30,2017,31,University of British Columbia,ca,37.7,15.2
+31,2017,32,The University of Edinburgh,gb,37.0,24.3
+32,2017,33,University of North Carolina at Chapel Hill,us,36.9,8.8
+33,2017,34,"University of Minnesota, Twin Cities",us,36.8,29.2
+34,2017,35,Kyoto University,jp,36.7,31.3
+35,2017,36,Rockefeller University,us,36.6,16.8
+36,2017,37,University of Illinois at Urbana-Champaign,us,36.2,29.6
+37,2017,38,The University of Manchester,gb,36.1,18.3
+38,2017,39,The University of Melbourne,au,35.9,16.8
+39,2017,40,Pierre and Marie Curie University - Paris 6,fr,35.5,33.3
+40,2017,41,University of Paris-Sud (Paris 11),fr,35.0,30.0
+41,2017,42,Heidelberg University,de,34.8,19.7
+42,2017,43,University of Colorado at Boulder,us,34.7,12.4
+43,2017,44,Karolinska Institute,se,33.3,25.4
+44,2017,45,"University of California, Santa Barbara",us,33.2,14.4
+45,2017,46,King's College London,gb,33.1,20.9
+46,2017,47,Utrecht University,nl,33.0,22.7
+47,2017,48,The University of Texas Southwestern Medical Center at Dallas,us,32.8,18.3
+48,2017,48,Tsinghua University,cn,32.8,10.2
+49,2017,50,Technical University Munich,de,32.7,34.4
+50,2017,51,The University of Texas at Austin,us,32.5,16.1
+51,2017,52,Vanderbilt University,us,32.0,15.2
+52,2017,53,"University of Maryland, College Park",us,31.8,19.0
+53,2017,54,University of Southern California,us,31.7,0.0
+54,2017,55,The University of Queensland,au,31.6,12.4
+55,2017,56,University of Helsinki,fi,31.5,18.3
+56,2017,57,University of Munich,de,31.4,25.4
+57,2017,58,University of Zurich,ch,31.3,5.1
+58,2017,59,University of Groningen,nl,31.1,13.4
+59,2017,60,University of Geneva,ch,31.0,26.9
+60,2017,61,University of Bristol,gb,30.1,7.2
+61,2017,62,University of Oslo,no,29.9,27.8
+62,2017,63,Uppsala University,se,29.8,17.6
+63,2017,64,"University of California, Irvine",us,29.4,0.0
+64,2017,65,Aarhus University,dk,29.1,11.4
+65,2017,66,McMaster University,ca,29.0,12.4
+66,2017,67,McGill University,ca,28.9,32.5
+67,2017,68,"University of Pittsburgh, Pittsburgh Campus",us,28.7,18.3
+68,2017,69,Ecole Normale Superieure - Paris,fr,28.6,48.4
+69,2017,69,Ghent University,be,28.6,5.1
+70,2017,71,Mayo Medical School,us,28.5,0.0
+71,2017,71,Peking University,cn,28.5,11.4
+72,2017,73,Erasmus University Rotterdam,nl,28.4,0.0
+73,2017,74,Rice University,us,28.2,16.1
+74,2017,74,Stockholm University,se,28.2,23.8
+75,2017,76,Swiss Federal Institute of Technology Lausanne,ch,28.1,0.0
+76,2017,77,Purdue University - West Lafayette,us,28.0,13.4
+77,2017,78,Monash University,au,27.9,0.0
+78,2017,79,"Rutgers, The State University of New Jersey - New Brunswick",us,27.8,10.2
+79,2017,80,Boston University,us,27.7,11.4
+80,2017,80,Carnegie Mellon University,us,27.7,31.3
+81,2017,80,The Ohio State University - Columbus,us,27.7,12.4
+82,2017,83,University of Sydney,au,27.5,14.4
+83,2017,84,Nagoya University,jp,27.2,28.7
+84,2017,85,Georgia Institute of Technology,us,27.1,12.4
+85,2017,85,Pennsylvania State University - University Park,us,27.1,10.2
+86,2017,85,"University of California, Davis",us,27.1,0.0
+87,2017,88,Leiden University,nl,27.0,17.6
+88,2017,88,University of Florida,us,27.0,16.8
+89,2017,90,KU Leuven,be,26.9,0.0
+90,2017,91,National University of Singapore,sg,26.8,0.0
+91,2017,91,The University of Western Australia,au,26.8,13.4
+92,2017,93,Moscow State University,ru,26.6,40.9
+93,2017,93,Technion-Israel Institute of Technology,il,26.6,23.3
+94,2017,95,University of Basel,ch,26.3,19.0
+95,2017,95,University of Goettingen,de,26.3,30.5
+96,2017,97,The Australian National University,au,26.1,13.4
+97,2017,98,"University of California, Santa Cruz",us,26.0,0.0
+98,2017,99,Cardiff University,gb,25.9,0.0
+99,2017,99,University of Arizona,us,25.9,14.4
+100,2017,101-150,Aix Marseille University,fr,,13.4
+101,2017,101-150,Arizona State University,us,,0.0
+102,2017,101-150,Baylor College of Medicine,us,,0.0
+103,2017,101-150,Brown University,us,,14.4
+104,2017,101-150,Case Western Reserve University,us,,30.0
+105,2017,101-150,Catholic University of Louvain,be,,10.2
+106,2017,101-150,Emory University,us,,0.0
+107,2017,101-150,Fudan University,cn,,0.0
+108,2017,101-150,Icahn School of Medicine at Mount Sinai,us,,0.0
+109,2017,101-150,Indiana University Bloomington,us,,10.2
+110,2017,101-150,King Abdulaziz University,sa,,0.0
+111,2017,101-150,King Saud University,sa,,0.0
+112,2017,101-150,Lund University,se,,20.9
+113,2017,101-150,Michigan State University,us,,8.8
+114,2017,101-150,Nanyang Technological University,sg,,0.0
+115,2017,101-150,Norwegian University of Science and Technology - NTNU,no,,13.4
+116,2017,101-150,Osaka University,jp,,8.8
+117,2017,101-150,Radboud University Nijmegen,nl,,16.1
+118,2017,101-150,Seoul National University,kr,,0.0
+119,2017,101-150,Shanghai Jiao Tong University,cn,,0.0
+120,2017,101-150,Texas A&M University,us,,0.0
+121,2017,101-150,The Hebrew University of Jerusalem,il,,31.7
+122,2017,101-150,The University of Adelaide,au,,14.4
+123,2017,101-150,The University of Glasgow,gb,,7.2
+124,2017,101-150,The University of Hong Kong,hk,,0.0
+125,2017,101-150,The University of New South Wales,au,,0.0
+126,2017,101-150,The University of Sheffield,gb,,17.6
+127,2017,101-150,The University of Texas M. D. Anderson Cancer Center,us,,0.0
+128,2017,101-150,Tohoku University,jp,,14.4
+129,2017,101-150,University of Alberta,ca,,11.4
+130,2017,101-150,University of Amsterdam,nl,,5.1
+131,2017,101-150,University of Bern,ch,,12.4
+132,2017,101-150,University of Birmingham,gb,,18.3
+133,2017,101-150,University of Bonn,de,,15.2
+134,2017,101-150,University of Frankfurt,de,,30.0
+135,2017,101-150,University of Freiburg,de,,18.3
+136,2017,101-150,University of Leeds,gb,,16.8
+137,2017,101-150,University of Liverpool,gb,,16.8
+138,2017,101-150,University of Nottingham,gb,,11.4
+139,2017,101-150,University of Rochester,us,,24.3
+140,2017,101-150,University of Science and Technology of China,cn,,0.0
+141,2017,101-150,University of Southampton,gb,,0.0
+142,2017,101-150,University of Strasbourg,fr,,28.3
+143,2017,101-150,University of Utah,us,,0.0
+144,2017,101-150,University of Wageningen,nl,,0.0
+145,2017,101-150,University of Warwick,gb,,13.4
+146,2017,101-150,University Paris Diderot - Paris 7,fr,,11.4
+147,2017,101-150,VU University Amsterdam,nl,,0.0
+148,2017,101-150,Weizmann Institute of Science,il,,17.6
+149,2017,101-150,Zhejiang University,cn,,0.0
+150,2017,151-200,China Medical University (Taichung),tw,,0.0
+151,2017,151-200,Curtin University,au,,0.0
+152,2017,151-200,Delft University of Technology,nl,,11.4
+153,2017,151-200,Harbin Institute of Technology,cn,,0.0
+154,2017,151-200,Hokkaido University,jp,,11.4
+155,2017,151-200,London School of Economics and Political Science,gb,,23.8
+156,2017,151-200,Macquarie University,au,,0.0
+157,2017,151-200,National Taiwan University,tw,,11.4
+158,2017,151-200,Oregon State University,us,,10.2
+159,2017,151-200,Queen Mary University of London,gb,,17.6
+160,2017,151-200,Sapienza University of Rome,it,,11.4
+161,2017,151-200,Sichuan University,cn,,0.0
+162,2017,151-200,Sun Yat-sen University,cn,,0.0
+163,2017,151-200,Technical University of Denmark,dk,,5.1
+164,2017,151-200,Tel Aviv University,il,,0.0
+165,2017,151-200,The Chinese University of Hong Kong,hk,,0.0
+166,2017,151-200,The University of Calgary,ca,,0.0
+167,2017,151-200,Tokyo Institute of Technology,jp,,12.4
+168,2017,151-200,Trinity College Dublin,ie,,15.2
+169,2017,151-200,TU Dresden,de,,0.0
+170,2017,151-200,Tufts University,us,,18.3
+171,2017,151-200,Université Grenoble Alpes,fr,,0.0
+172,2017,151-200,Université libre de Bruxelles (ULB),be,,19.7
+173,2017,151-200,University of Bordeaux,fr,,0.0
+174,2017,151-200,"University of California, Riverside",us,,12.4
+175,2017,151-200,University of Delaware,us,,10.2
+176,2017,151-200,University of Erlangen-Nuremberg,de,,0.0
+177,2017,151-200,Exeter University,gb,,0.0
+178,2017,151-200,University of Gothenburg,se,,0.0
+179,2017,151-200,University of Hamburg,de,,11.4
+180,2017,151-200,University of Innsbruck,at,,0.0
+181,2017,151-200,University of Iowa,us,,0.0
+182,2017,151-200,University of Kiel,de,,10.2
+183,2017,151-200,University of Lausanne,ch,,0.0
+184,2017,151-200,University of Leipzig,de,,11.4
+185,2017,151-200,University of Lisbon,pt,,0.0
+186,2017,151-200,University of Massachusetts Amherst,us,,13.4
+187,2017,151-200,University of Massachusetts Medical School - Worcester,us,,0.0
+188,2017,151-200,University of Miami,us,,0.0
+189,2017,151-200,University of Montreal,ca,,11.4
+190,2017,151-200,University of Muenster,de,,19.0
+191,2017,151-200,University of Nebraska - Lincoln,us,,16.8
+192,2017,151-200,University of Ottawa,ca,,0.0
+193,2017,151-200,University of Padua,it,,0.0
+194,2017,151-200,University of Paris Descartes (Paris 5),fr,,11.4
+195,2017,151-200,University of Sao Paulo,br,,0.0
+196,2017,151-200,University of Tuebingen,de,,22.1
+197,2017,151-200,University of Vienna,at,,13.4
+198,2017,151-200,University of Virginia,us,,0.0
+199,2017,151-200,University of Wuerzburg,de,,19.0
+200,2017,201-300,Aalborg University,dk,,0.0
+201,2017,201-300,Beijing Normal University,cn,,15.2
+202,2017,201-300,Chalmers University of Technology,se,,0.0
+203,2017,201-300,Charles University in Prague,cz,,8.8
+204,2017,201-300,City University of Hong Kong,hk,,0.0
+205,2017,201-300,Claude Bernard University Lyon 1,fr,,10.2
+206,2017,201-300,Colorado State University,us,,0.0
+207,2017,201-300,Dartmouth College,us,,17.6
+208,2017,201-300,Deakin University,au,,0.0
+209,2017,201-300,Drexel University,us,,0.0
+210,2017,201-300,Durham University,gb,,0.0
+211,2017,201-300,Ecole Normale Superieure - Lyon,fr,,0.0
+212,2017,201-300,Florida State University,us,,0.0
+213,2017,201-300,George Mason University,us,,0.0
+214,2017,201-300,Georgetown University,us,,0.0
+215,2017,201-300,Hanyang University,kr,,0.0
+216,2017,201-300,Huazhong University of Science and Technology,cn,,0.0
+217,2017,201-300,Iowa State University,us,,0.0
+218,2017,201-300,Karlsruhe Institute of Technology (KIT),de,,0.0
+219,2017,201-300,King Abdullah University of Science and Technology,sa,,0.0
+220,2017,201-300,Korea Advanced Institute of Science and Technology,kr,,0.0
+221,2017,201-300,Korea University,kr,,0.0
+222,2017,201-300,KTH Royal Institute of Technology,se,,0.0
+223,2017,201-300,Kyushu University,jp,,0.0
+224,2017,201-300,Linkoping University,se,,0.0
+225,2017,201-300,London School of Hygiene & Tropical Medicine,gb,,7.2
+226,2017,201-300,Maastricht University,nl,,0.0
+227,2017,201-300,Medical University of South Carolina,us,,0.0
+228,2017,201-300,Medical University of Vienna,at,,8.8
+229,2017,201-300,Nanjing University,cn,,0.0
+230,2017,201-300,National Autonomous University of Mexico,mx,,12.4
+231,2017,201-300,Newcastle University,gb,,0.0
+232,2017,201-300,North Carolina State University - Raleigh,us,,0.0
+233,2017,201-300,Northeastern University (Boston),us,,0.0
+234,2017,201-300,Oregon Health and Science University,us,,0.0
+235,2017,201-300,Paul Sabatier University (Toulouse 3),fr,,0.0
+236,2017,201-300,Polytechnic Institute of Milan,it,,7.2
+237,2017,201-300,Pompeu Fabra University,es,,0.0
+238,2017,201-300,Queen's University,ca,,0.0
+239,2017,201-300,Queensland University of Technology,au,,0.0
+240,2017,201-300,RWTH Aachen University,de,,0.0
+241,2017,201-300,Soochow University (China),cn,,0.0
+242,2017,201-300,South China University of Technology,cn,,0.0
+243,2017,201-300,Southeast University,cn,,0.0
+244,2017,201-300,Stony Brook University,us,,0.0
+245,2017,201-300,Sungkyunkwan University,kr,,0.0
+246,2017,201-300,Swedish University of Agricultural Sciences,se,,0.0
+247,2017,201-300,The Hong Kong Polytechnic University,hk,,0.0
+248,2017,201-300,The Hong Kong University of Science and Technology,hk,,0.0
+249,2017,201-300,The University of Auckland,nz,,13.4
+250,2017,201-300,The University of Dundee,gb,,0.0
+251,2017,201-300,The University of Georgia,us,,0.0
+252,2017,201-300,The University of Reading,gb,,0.0
+253,2017,201-300,The University of Texas at Dallas,us,,13.4
+254,2017,201-300,The University of Texas Health Science Center at San Antonio,us,,0.0
+255,2017,201-300,"University at Buffalo, the State University of New York",us,,0.0
+256,2017,201-300,University of Aberdeen,gb,,0.0
+257,2017,201-300,University of Alabama at Birmingham,us,,0.0
+258,2017,201-300,University of Antwerp,be,,0.0
+259,2017,201-300,University of Barcelona,es,,0.0
+260,2017,201-300,University of Belgrade,rs,,0.0
+261,2017,201-300,University of Bergen,no,,0.0
+262,2017,201-300,University of Bochum,de,,0.0
+263,2017,201-300,University of Bologna,it,,0.0
+264,2017,201-300,University of Buenos Aires,ar,,14.4
+265,2017,201-300,University of Cologne,de,,0.0
+266,2017,201-300,University of Electronic Science and Technology of China,cn,,0.0
+267,2017,201-300,University of Granada,es,,0.0
+268,2017,201-300,University of Hawaii at Manoa,us,,0.0
+269,2017,201-300,University of Houston,us,,0.0
+270,2017,201-300,University of Illinois at Chicago,us,,0.0
+271,2017,201-300,University of Jena,de,,0.0
+272,2017,201-300,University of Kansas,us,,17.6
+273,2017,201-300,University of Lorraine,fr,,11.4
+274,2017,201-300,University of Mainz,de,,0.0
+275,2017,201-300,"University of Maryland, Baltimore",us,,0.0
+276,2017,201-300,University of Milan,it,,16.8
+277,2017,201-300,University of Missouri - Columbia,us,,8.8
+278,2017,201-300,University of Montpellier,fr,,10.2
+279,2017,201-300,University of Notre Dame,us,,12.4
+280,2017,201-300,University of Oregon,us,,8.8
+281,2017,201-300,University of Pisa,it,,13.4
+282,2017,201-300,University of South Florida,us,,0.0
+283,2017,201-300,University of Sussex,gb,,0.0
+284,2017,201-300,University of Tasmania,au,,0.0
+285,2017,201-300,University of Tennessee - Knoxville,us,,10.2
+286,2017,201-300,University of the Witwatersrand,za,,18.3
+287,2017,201-300,University of Tsukuba,jp,,0.0
+288,2017,201-300,University of Turin,it,,15.2
+289,2017,201-300,University of Ulm,de,,0.0
+290,2017,201-300,University of Waterloo,ca,,0.0
+291,2017,201-300,University of Wollongong,au,,0.0
+292,2017,201-300,University of York,gb,,0.0
+293,2017,201-300,Virginia Commonwealth University,us,,10.2
+294,2017,201-300,Vrije Universiteit Brussel (VUB),be,,13.4
+295,2017,201-300,Western University,ca,,0.0
+296,2017,201-300,Wuhan University,cn,,0.0
+297,2017,201-300,Xian Jiao Tong University,cn,,0.0
+298,2017,201-300,Yeshiva University,us,,0.0
+299,2017,201-300,Yonsei University,kr,,0.0
+300,2017,301-400,Autonomous University of Barcelona,es,,0.0
+301,2017,301-400,Autonomous University of Madrid,es,,0.0
+302,2017,301-400,Beihang University,cn,,0.0
+303,2017,301-400,Boston College,us,,0.0
+304,2017,301-400,Brandeis University,us,,19.0
+305,2017,301-400,Brigham Young University,us,,8.8
+306,2017,301-400,Capital Medical University,cn,,0.0
+307,2017,301-400,Central South University,cn,,0.0
+308,2017,301-400,Chang Gung University,tw,,0.0
+309,2017,301-400,Chiba University,jp,,0.0
+310,2017,301-400,China University of Geosciences (Wuhan),cn,,0.0
+311,2017,301-400,Complutense University of Madrid,es,,19.0
+312,2017,301-400,Dalhousie University,ca,,12.4
+313,2017,301-400,Dalian University of Technology,cn,,0.0
+314,2017,301-400,East China University of Science and Technology,cn,,0.0
+315,2017,301-400,Eindhoven University of Technology,nl,,0.0
+316,2017,301-400,ESPCI ParisTech,fr,,7.2
+317,2017,301-400,Federal University of Rio de Janeiro,br,,0.0
+318,2017,301-400,Griffith University,au,,0.0
+319,2017,301-400,Hannover Medical School,de,,0.0
+320,2017,301-400,Hiroshima University,jp,,0.0
+321,2017,301-400,Hunan University,cn,,0.0
+322,2017,301-400,Indian Institute of Science,in,,0.0
+323,2017,301-400,Indiana University-Purdue University at Indianapolis,us,,0.0
+324,2017,301-400,James Cook University,au,,0.0
+325,2017,301-400,Jilin University,cn,,0.0
+326,2017,301-400,Keio University,jp,,0.0
+327,2017,301-400,La Trobe University,au,,0.0
+328,2017,301-400,Lancaster University,gb,,0.0
+329,2017,301-400,Lanzhou University,cn,,0.0
+330,2017,301-400,Laval University,ca,,0.0
+331,2017,301-400,Louisiana State University - Baton Rouge,us,,0.0
+332,2017,301-400,Nankai University,cn,,0.0
+333,2017,301-400,National and Kapodistrian University of Athens,gr,,0.0
+334,2017,301-400,National Cheng Kung University,tw,,0.0
+335,2017,301-400,National Chiao Tung University,tw,,0.0
+336,2017,301-400,National Tsing Hua University,tw,,12.4
+337,2017,301-400,"National University of Ireland, Galway",ie,,0.0
+338,2017,301-400,Ocean University of China,cn,,0.0
+339,2017,301-400,Okayama University,jp,,0.0
+340,2017,301-400,Paris Dauphine University (Paris 9),fr,,20.3
+341,2017,301-400,Pohang University of Science and Technology,kr,,0.0
+342,2017,301-400,Queen's University Belfast,gb,,17.6
+343,2017,301-400,Saint Louis University,us,,0.0
+344,2017,301-400,Saint Petersburg State University,ru,,26.4
+345,2017,301-400,Shandong University,cn,,0.0
+346,2017,301-400,Swinburne University of Technology,au,,0.0
+347,2017,301-400,Temple University,us,,0.0
+348,2017,301-400,The George Washington University,us,,11.4
+349,2017,301-400,The University of New Mexico - Albuquerque,us,,0.0
+350,2017,301-400,"The University of Newcastle, Australia",au,,0.0
+351,2017,301-400,The University of Texas Health Science Center at Houston,us,,0.0
+352,2017,301-400,Tianjin University,cn,,0.0
+353,2017,301-400,Tongji University,cn,,0.0
+354,2017,301-400,Umea University,se,,0.0
+355,2017,301-400,UNESP,br,,0.0
+356,2017,301-400,University College Dublin,ie,,0.0
+357,2017,301-400,University of Cape Town,za,,18.3
+358,2017,301-400,University of Central Florida,us,,0.0
+359,2017,301-400,University of Chile,cl,,7.2
+360,2017,301-400,University of Cincinnati,us,,0.0
+361,2017,301-400,University of Colorado at Denver,us,,0.0
+362,2017,301-400,University of Connecticut,us,,11.4
+363,2017,301-400,University of Duesseldorf,de,,11.4
+364,2017,301-400,University of East Anglia,gb,,13.4
+365,2017,301-400,University of Eastern Finland,fi,,0.0
+366,2017,301-400,University of Florence,it,,0.0
+367,2017,301-400,University of Guelph,ca,,0.0
+368,2017,301-400,University of Halle-Wittenberg,de,,0.0
+369,2017,301-400,University of Kentucky,us,,10.2
+370,2017,301-400,University of Leicester,gb,,0.0
+371,2017,301-400,University of Liege,be,,7.2
+372,2017,301-400,University of Manitoba,ca,,0.0
+373,2017,301-400,University of Milan - Bicocca,it,,0.0
+374,2017,301-400,University of Naples Federico II,it,,0.0
+375,2017,301-400,University of North Texas,us,,0.0
+376,2017,301-400,University of Otago,nz,,0.0
+377,2017,301-400,University of Pavia,it,,0.0
+378,2017,301-400,University of Porto,pt,,0.0
+379,2017,301-400,University of Roma - Tor Vergata,it,,0.0
+380,2017,301-400,University of Santiago Compostela,es,,0.0
+381,2017,301-400,University of Saskatchewan,ca,,8.8
+382,2017,301-400,University of South Carolina - Columbia,us,,0.0
+383,2017,301-400,University of Southern Denmark,dk,,0.0
+384,2017,301-400,University of St Andrews,gb,,10.2
+385,2017,301-400,University of Stuttgart,de,,18.3
+386,2017,301-400,University of Surrey,gb,,0.0
+387,2017,301-400,University of Tartu,ee,,0.0
+388,2017,301-400,University of Technology Sydney,au,,0.0
+389,2017,301-400,University of Tehran,ir,,12.4
+390,2017,301-400,University of Toulouse 1,fr,,0.0
+391,2017,301-400,University of Twente,nl,,0.0
+392,2017,301-400,University of Vermont,us,,13.4
+393,2017,301-400,University of Victoria,ca,,0.0
+394,2017,301-400,University of Warsaw,pl,,15.2
+395,2017,301-400,University of Western Sydney,au,,0.0
+396,2017,301-400,Victoria University of Wellington,nz,,11.4
+397,2017,301-400,Virginia Polytechnic Institute and State University,us,,11.4
+398,2017,301-400,Wayne State University,us,,0.0
+399,2017,301-400,Xiamen University,cn,,0.0
+400,2017,401-500,Aalto University,fi,,0.0
+401,2017,401-500,Amirkabir University of Technology,ir,,0.0
+402,2017,401-500,Aristotle University of Thessaloniki,gr,,0.0
+403,2017,401-500,Bangor University,gb,,11.4
+404,2017,401-500,Bar-Ilan University,il,,0.0
+405,2017,401-500,Ben-Gurion University of the Negev,il,,0.0
+406,2017,401-500,Bielefeld University,de,,0.0
+407,2017,401-500,Brunel University,gb,,0.0
+408,2017,401-500,Cairo University,eg,,19.0
+409,2017,401-500,Catholic University of Chile,cl,,0.0
+410,2017,401-500,China Agricultural University,cn,,0.0
+411,2017,401-500,Chulalongkorn University,th,,0.0
+412,2017,401-500,City University of New York City College,us,,30.9
+413,2017,401-500,Concordia University,ca,,0.0
+414,2017,401-500,East China Normal University,cn,,0.0
+415,2017,401-500,Ecole Polytechnique,fr,,21.5
+416,2017,401-500,Ewha Womans University,kr,,0.0
+417,2017,401-500,Federal University of Minas Gerais,br,,0.0
+418,2017,401-500,Federal University of Rio Grande do Sul,br,,0.0
+419,2017,401-500,Flinders University,au,,15.2
+420,2017,401-500,Florida International University,us,,0.0
+421,2017,401-500,Gyeongsang National University,kr,,0.0
+422,2017,401-500,Harbin Engineering University,cn,,0.0
+423,2017,401-500,Heriot-Watt University,gb,,0.0
+424,2017,401-500,Huazhong Agricultural University,cn,,0.0
+425,2017,401-500,Istanbul University,tr,,18.3
+426,2017,401-500,Jagiellonian University,pl,,10.2
+427,2017,401-500,Kaohsiung Medical University,tw,,0.0
+428,2017,401-500,Kent State University,us,,0.0
+429,2017,401-500,King Fahd University of Petroleum & Minerals,sa,,0.0
+430,2017,401-500,Kobe University,jp,,14.4
+431,2017,401-500,Kyung Hee University,kr,,0.0
+432,2017,401-500,Kyungpook National University,kr,,0.0
+433,2017,401-500,MINES ParisTech,fr,,13.4
+434,2017,401-500,Nanjing Agricultural University,cn,,0.0
+435,2017,401-500,Nanjing Medical University,cn,,0.0
+436,2017,401-500,Nanjing University of Aeronautics and Astronautics,cn,,0.0
+437,2017,401-500,Nanjing University of Science and Technology,cn,,0.0
+438,2017,401-500,National Technical University of Athens,gr,,0.0
+439,2017,401-500,New Mexico State University,us,,0.0
+440,2017,401-500,Northeastern University (Shenyang),cn,,0.0
+441,2017,401-500,Northwest University,cn,,0.0
+442,2017,401-500,Novosibirsk State University,ru,,13.4
+443,2017,401-500,Oklahoma State University,us,,0.0
+444,2017,401-500,Osaka City University,jp,,15.2
+445,2017,401-500,Peking Union Medical College,cn,,0.0
+446,2017,401-500,Polytechnic University of Valencia,es,,0.0
+447,2017,401-500,RMIT University,au,,0.0
+448,2017,401-500,Rush University,us,,0.0
+449,2017,401-500,Simon Fraser University,ca,,0.0
+450,2017,401-500,St George's Hospital Medical School,gb,,0.0
+451,2017,401-500,Stellenbosch University,za,,0.0
+452,2017,401-500,Stockholm School of Economics,se,,0.0
+453,2017,401-500,Technical University Darmstadt,de,,14.4
+454,2017,401-500,Technical University of Berlin,de,,16.1
+455,2017,401-500,The University of Texas at Arlington,us,,0.0
+456,2017,401-500,The University of Texas Medical Branch at Galveston,us,,0.0
+457,2017,401-500,The University of Tokushima,jp,,13.4
+458,2017,401-500,Thomas Jefferson University,us,,0.0
+459,2017,401-500,Tokyo University of Science,jp,,12.4
+460,2017,401-500,Ulsan National Institute of Science and Technology,kr,,0.0
+461,2017,401-500,Universitat Jaume I,es,,0.0
+462,2017,401-500,University at Albany (State University of New York),us,,0.0
+463,2017,401-500,University of Aveiro,pt,,0.0
+464,2017,401-500,University of Bayreuth,de,,0.0
+465,2017,401-500,University of Bremen,de,,0.0
+466,2017,401-500,University of Campinas,br,,0.0
+467,2017,401-500,University of Canterbury,nz,,0.0
+468,2017,401-500,University of Coimbra,pt,,0.0
+469,2017,401-500,University of Ferrara,it,,0.0
+470,2017,401-500,University of Fribourg,ch,,0.0
+471,2017,401-500,University of Hannover,de,,0.0
+472,2017,401-500,University of Iceland,is,,0.0
+473,2017,401-500,University of Johannesburg,za,,0.0
+474,2017,401-500,University of Konstanz,de,,0.0
+475,2017,401-500,University of KwaZulu-Natal,za,,0.0
+476,2017,401-500,University of Ljubljana,si,,0.0
+477,2017,401-500,University of Malaya,my,,0.0
+478,2017,401-500,University of Marburg,de,,10.2
+479,2017,401-500,University of Minho,pt,,0.0
+480,2017,401-500,University of Montana - Missoula,us,,5.1
+481,2017,401-500,University of New Hampshire - Durham,us,,0.0
+482,2017,401-500,University of Nice Sophia Antipolis,fr,,0.0
+483,2017,401-500,University of Oklahoma - Norman,us,,0.0
+484,2017,401-500,University of Oulu,fi,,11.4
+485,2017,401-500,University of Palermo,it,,0.0
+486,2017,401-500,University of Potsdam,de,,0.0
+487,2017,401-500,University of Regensburg,de,,0.0
+488,2017,401-500,University of Rostock,de,,0.0
+489,2017,401-500,"University of Science, Malaysia",my,,0.0
+490,2017,401-500,University of the Basque Country,es,,0.0
+491,2017,401-500,University of Trieste,it,,0.0
+492,2017,401-500,University of Turku,fi,,0.0
+493,2017,401-500,University of Valencia,es,,0.0
+494,2017,401-500,University of Wyoming,us,,0.0
+495,2017,401-500,Vienna University of Technology,at,,0.0
+496,2017,401-500,Vita-Salute San Raffaele University,it,,0.0
+497,2017,401-500,Washington State University,us,,0.0
+498,2017,401-500,West Virginia University,us,,0.0
+499,2017,401-500,Wuhan University of Technology,cn,,0.0
+500,2017,501-600,Auburn University,us,,0.0
+501,2017,501-600,Baylor University,us,,0.0
+502,2017,501-600,Beijing Institute of Technology,cn,,0.0
+503,2017,501-600,Catholic University of Korea,kr,,0.0
+504,2017,501-600,Catholic University of the Sacred Heart,it,,0.0
+505,2017,501-600,Chongqing University,cn,,0.0
+506,2017,501-600,Chonnam National University,kr,,0.0
+507,2017,501-600,Chung-Ang University,kr,,0.0
+508,2017,501-600,Chungbuk National University,kr,,0.0
+509,2017,501-600,Donghua University,cn,,0.0
+510,2017,501-600,Ehime University,jp,,0.0
+511,2017,501-600,Eotvos Lorand University,hu,,13.4
+512,2017,501-600,Erciyes University,tr,,0.0
+513,2017,501-600,Federal University of Parana,br,,0.0
+514,2017,501-600,Federal University of Viçosa,br,,0.0
+515,2017,501-600,Georgia State University,us,,0.0
+516,2017,501-600,Hacettepe University,tr,,0.0
+517,2017,501-600,Hefei University of Technology,cn,,0.0
+518,2017,501-600,International School for Advanced Studies,it,,0.0
+519,2017,501-600,Kansas State University,us,,0.0
+520,2017,501-600,Kitasato University,jp,,0.0
+521,2017,501-600,Konkuk University,kr,,0.0
+522,2017,501-600,Loyola University Chicago,us,,0.0
+523,2017,501-600,Macau University of Science and Technology,mo,,0.0
+524,2017,501-600,Mahidol University,th,,0.0
+525,2017,501-600,Marche Polytechnic University,it,,0.0
+526,2017,501-600,Massey University,nz,,0.0
+527,2017,501-600,Medical University of Graz,at,,0.0
+528,2017,501-600,Memorial University of Newfoundland,ca,,0.0
+529,2017,501-600,Moscow Institute of Physics and Technology,ru,,20.9
+530,2017,501-600,NanJing Tech University,cn,,0.0
+531,2017,501-600,Nara Institute of Science and Technology,jp,,0.0
+532,2017,501-600,National Central University,tw,,0.0
+533,2017,501-600,National Polytechnic Institute,mx,,0.0
+534,2017,501-600,National University of Cordoba,ar,,0.0
+535,2017,501-600,National University of Malaysia,my,,0.0
+536,2017,501-600,National Yang Ming University,tw,,0.0
+537,2017,501-600,New Jersey Institute of Technology,us,,0.0
+538,2017,501-600,New University of Lisbon,pt,,0.0
+539,2017,501-600,Northeast Normal University,cn,,0.0
+540,2017,501-600,Northwest A&F University,cn,,0.0
+541,2017,501-600,Northwestern Polytechnical University,cn,,0.0
+542,2017,501-600,Old Dominion University,us,,0.0
+543,2017,501-600,Pusan National University,kr,,0.0
+544,2017,501-600,Rensselaer Polytechnic Institute,us,,12.4
+545,2017,501-600,"Royal Holloway, University of London",gb,,0.0
+546,2017,501-600,Saitama University,jp,,14.4
+547,2017,501-600,San Diego State University,us,,0.0
+548,2017,501-600,Scuola Normale Superiore - Pisa,it,,0.0
+549,2017,501-600,Shanghai University,cn,,0.0
+550,2017,501-600,Sharif University of Technology,ir,,15.2
+551,2017,501-600,Southern University of Science and Technology,cn,,0.0
+552,2017,501-600,State University of New York Health Science Center at Brooklyn,us,,0.0
+553,2017,501-600,Technical University of Braunschweig,de,,12.4
+554,2017,501-600,Tehran University of Medical Sciences,ir,,0.0
+555,2017,501-600,Texas Tech University,us,,0.0
+556,2017,501-600,The University of Texas at San Antonio,us,,0.0
+557,2017,501-600,University of Alaska - Fairbanks,us,,0.0
+558,2017,501-600,University of Arkansas at Fayetteville,us,,0.0
+559,2017,501-600,University of Arkansas at Little Rock,us,,0.0
+560,2017,501-600,University of Bari,it,,0.0
+561,2017,501-600,University of Bath,gb,,0.0
+562,2017,501-600,University of Duisburg-Essen,de,,0.0
+563,2017,501-600,University of Essex,gb,,19.0
+564,2017,501-600,University of Genoa,it,,0.0
+565,2017,501-600,University of Giessen,de,,0.0
+566,2017,501-600,University of Graz,at,,7.2
+567,2017,501-600,University of Hohenheim,de,,0.0
+568,2017,501-600,University of Jyvaskyla,fi,,0.0
+569,2017,501-600,University of Macau,mo,,0.0
+570,2017,501-600,"University of Maryland, Baltimore County",us,,0.0
+571,2017,501-600,University of Oldenburg,de,,0.0
+572,2017,501-600,University of Oviedo,es,,0.0
+573,2017,501-600,University of Parma,it,,0.0
+574,2017,501-600,University of Perugia,it,,0.0
+575,2017,501-600,University of Portsmouth,gb,,0.0
+576,2017,501-600,University of Pretoria,za,,0.0
+577,2017,501-600,University of Rhode Island,us,,0.0
+578,2017,501-600,University of Science and Technology Beijing,cn,,0.0
+579,2017,501-600,University of Seville,es,,0.0
+580,2017,501-600,University of South Australia,au,,0.0
+581,2017,501-600,University of Strathclyde,gb,,0.0
+582,2017,501-600,University of Szeged,hu,,0.0
+583,2017,501-600,University of the Balearic Islands,es,,0.0
+584,2017,501-600,University of Trento,it,,0.0
+585,2017,501-600,University of Udine,it,,0.0
+586,2017,501-600,University of Ulsan,kr,,0.0
+587,2017,501-600,University of Versailles Saint-Quentin-en-Yvelines,fr,,0.0
+588,2017,501-600,University of Vigo,es,,0.0
+589,2017,501-600,University of Wisconsin-Milwaukee,us,,10.2
+590,2017,501-600,University of Zagreb,hr,,0.0
+591,2017,501-600,University of Zaragoza,es,,0.0
+592,2017,501-600,University Putra Malaysia,my,,0.0
+593,2017,501-600,Utah State University,us,,13.4
+594,2017,501-600,Wake Forest University,us,,0.0
+595,2017,501-600,Waseda University,jp,,0.0
+596,2017,501-600,Yangzhou University,cn,,0.0
+597,2017,501-600,Yeungnam University,kr,,0.0
+598,2017,501-600,York University,ca,,0.0
+599,2017,501-600,Zhengzhou University,cn,,0.0
+600,2017,601-700,AGH University of Science and Technology,pl,,0.0
+601,2017,601-700,Babeș-Bolyai University,ro,,0.0
+602,2017,601-700,Beijing University of Chemical Technology,cn,,0.0
+603,2017,601-700,Beijing University of Technology,cn,,0.0
+604,2017,601-700,Carleton University,ca,,0.0
+605,2017,601-700,China Medical University (Shenyang),cn,,0.0
+606,2017,601-700,China University of Geosciences (Beijing),cn,,0.0
+607,2017,601-700,China University of Petroleum (Beijing),cn,,0.0
+608,2017,601-700,Chonbuk National University,kr,,0.0
+609,2017,601-700,Chungnam National University,kr,,0.0
+610,2017,601-700,Clark University,us,,0.0
+611,2017,601-700,Clemson University,us,,0.0
+612,2017,601-700,Colorado School of Mines,us,,0.0
+613,2017,601-700,Copenhagen Business School,dk,,0.0
+614,2017,601-700,CUNY Graduate School and University Center,us,,0.0
+615,2017,601-700,Czech Technical University in Prague,cz,,7.2
+616,2017,601-700,Dokuz Eylul University,tr,,0.0
+617,2017,601-700,Federal University of Santa Catarina,br,,0.0
+618,2017,601-700,Federal University of Sao Paulo,br,,0.0
+619,2017,601-700,Florida Institute of Technology,us,,0.0
+620,2017,601-700,Fuzhou University,cn,,0.0
+621,2017,601-700,Harbin Medical University,cn,,0.0
+622,2017,601-700,Hong Kong Baptist University,hk,,0.0
+623,2017,601-700,INHA University,kr,,0.0
+624,2017,601-700,Jawaharlal Nehru University,in,,0.0
+625,2017,601-700,Jiangnan University,cn,,0.0
+626,2017,601-700,Jiangsu University,cn,,0.0
+627,2017,601-700,Jinan University,cn,,0.0
+628,2017,601-700,Johannes Kepler University Linz,at,,0.0
+629,2017,601-700,Juntendo University,jp,,0.0
+630,2017,601-700,Kangwon National University,kr,,0.0
+631,2017,601-700,Lincoln University,nz,,0.0
+632,2017,601-700,Loughborough University,gb,,0.0
+633,2017,601-700,Masaryk University,cz,,0.0
+634,2017,601-700,Medical College of Wisconsin,us,,0.0
+635,2017,601-700,Miguel Hernandez University of Elche,es,,0.0
+636,2017,601-700,Missouri University of Science and Technology,us,,0.0
+637,2017,601-700,Montana State University - Bozeman,us,,0.0
+638,2017,601-700,Nanjing University of Information Science & Technology,cn,,0.0
+639,2017,601-700,National University of Defense Technology,cn,,0.0
+640,2017,601-700,Northern Arizona University,us,,0.0
+641,2017,601-700,North-West University,za,,11.4
+642,2017,601-700,Norwegian University of Life Sciences,no,,0.0
+643,2017,601-700,Ohio University,us,,13.4
+644,2017,601-700,Palacký University,cz,,0.0
+645,2017,601-700,Polytechnic University of Catalonia,es,,0.0
+646,2017,601-700,Polytechnic University of Madrid,es,,0.0
+647,2017,601-700,Polytechnic University of Turin,it,,0.0
+648,2017,601-700,Pukyong National University,kr,,0.0
+649,2017,601-700,Qatar University,qa,,0.0
+650,2017,601-700,Renmin University of China,cn,,0.0
+651,2017,601-700,Saarland University,de,,0.0
+652,2017,601-700,Shenzhen University,cn,,0.0
+653,2017,601-700,Southern Medical University,cn,,0.0
+654,2017,601-700,Southern Methodist University,us,,11.4
+655,2017,601-700,Southwest University,cn,,0.0
+656,2017,601-700,SUNY Upstate Medical University,us,,0.0
+657,2017,601-700,Swansea University,gb,,0.0
+658,2017,601-700,Swarthmore College,us,,25.4
+659,2017,601-700,Syracuse University,us,,0.0
+660,2017,601-700,Taipei Medical University,tw,,0.0
+661,2017,601-700,Tarbiat Modares University,ir,,0.0
+662,2017,601-700,The Open University,gb,,0.0
+663,2017,601-700,The Second Military Medical University,cn,,0.0
+664,2017,601-700,The University of Alabama - Tuscaloosa,us,,0.0
+665,2017,601-700,The University of Waikato,nz,,0.0
+666,2017,601-700,Third Military Medical University,cn,,0.0
+667,2017,601-700,Tianjin Medical University,cn,,0.0
+668,2017,601-700,Tilburg University,nl,,0.0
+669,2017,601-700,Tokyo Medical and Dental University,jp,,0.0
+670,2017,601-700,Tokyo University of Agriculture and Technology,jp,,0.0
+671,2017,601-700,Tulane University,us,,0.0
+672,2017,601-700,University College Cork,ie,,0.0
+673,2017,601-700,University of Alcalá,es,,0.0
+674,2017,601-700,University of Auvergne,fr,,0.0
+675,2017,601-700,University of Calcutta,in,,11.4
+676,2017,601-700,University of Canberra,au,,0.0
+677,2017,601-700,University of Catania,it,,0.0
+678,2017,601-700,University of Greifswald,de,,0.0
+679,2017,601-700,University of Haifa,il,,0.0
+680,2017,601-700,University of Italian speaking Switzerland,ch,,0.0
+681,2017,601-700,University of Kent,gb,,0.0
+682,2017,601-700,University of La Laguna,es,,0.0
+683,2017,601-700,University of L'Aquila,it,,0.0
+684,2017,601-700,University of Limerick,ie,,0.0
+685,2017,601-700,University of Louisville,us,,0.0
+686,2017,601-700,University of Luxembourg,lu,,0.0
+687,2017,601-700,University of Modena and Reggio Emilia,it,,0.0
+688,2017,601-700,University of Neuchatel,ch,,0.0
+689,2017,601-700,University of Puerto Rico,pr,,0.0
+690,2017,601-700,University of Quebec Montreal,ca,,0.0
+691,2017,601-700,University of Regina,ca,,0.0
+692,2017,601-700,University of Rennes 1,fr,,0.0
+693,2017,601-700,University of Sherbrooke,ca,,0.0
+694,2017,601-700,University of Siena,it,,0.0
+695,2017,601-700,University of Tampere,fi,,0.0
+696,2017,601-700,University Rovira i Virgili,es,,0.0
+697,2017,601-700,Wenzhou Medical University,cn,,0.0
+698,2017,601-700,Xidian University,cn,,0.0
+699,2017,601-700,Yamagata University,jp,,0.0
+700,2017,701-800,Adam Mickiewicz University,pl,,0.0
+701,2017,701-800,Ain Shams University,eg,,0.0
+702,2017,701-800,Ajou University,kr,,0.0
+703,2017,701-800,Alexandria University,eg,,12.4
+704,2017,701-800,Amherst College,us,,23.3
+705,2017,701-800,Anhui Medical University,cn,,0.0
+706,2017,701-800,Ankara University,tr,,0.0
+707,2017,701-800,Beijing Jiaotong University,cn,,0.0
+708,2017,701-800,Brescia University,it,,0.0
+709,2017,701-800,Budapest University of Technology and Economics,hu,,10.2
+710,2017,701-800,CentraleSupelec,fr,,0.0
+711,2017,701-800,China Pharmaceutical University,cn,,0.0
+712,2017,701-800,China University of Mining and Technology,cn,,0.0
+713,2017,701-800,Chongqing Medical University,cn,,0.0
+714,2017,701-800,Comenius University in Bratislava,sk,,0.0
+715,2017,701-800,CUNY Hunter College,us,,13.4
+716,2017,701-800,Ecole Centrale Lyon,fr,,0.0
+717,2017,701-800,Federal University of Pernambuco,br,,0.0
+718,2017,701-800,Federal University of Sao Carlos,br,,0.0
+719,2017,701-800,Ferdowsi University of Mashhad,ir,,0.0
+720,2017,701-800,Fourth Military Medical University,cn,,0.0
+721,2017,701-800,Gazi University,tr,,0.0
+722,2017,701-800,Guangzhou Medical University,cn,,0.0
+723,2017,701-800,Gwangju Institute of Science and Technology,kr,,0.0
+724,2017,701-800,Hohai University,cn,,0.0
+725,2017,701-800,Indian Institute of Technology Delhi,in,,0.0
+726,2017,701-800,Indian Institute of Technology Kharagpur,in,,0.0
+727,2017,701-800,Indian Institute of Technology Madras,in,,0.0
+728,2017,701-800,Inje university,kr,,0.0
+729,2017,701-800,Isfahan University of Technology,ir,,0.0
+730,2017,701-800,Kanazawa University,jp,,0.0
+731,2017,701-800,Keele University,gb,,0.0
+732,2017,701-800,Kumamoto University,jp,,0.0
+733,2017,701-800,Kyushu Institute of Technology,jp,,0.0
+734,2017,701-800,Lehigh University,us,,0.0
+735,2017,701-800,LILLE 1 University - Science and Technology,fr,,0.0
+736,2017,701-800,Liverpool John Moores University,gb,,0.0
+737,2017,701-800,London Business School,gb,,0.0
+738,2017,701-800,Medical University of Innsbruck,at,,0.0
+739,2017,701-800,Medical University of Silesia,pl,,0.0
+740,2017,701-800,Meijo University,jp,,0.0
+741,2017,701-800,Michigan Technological University,us,,8.8
+742,2017,701-800,Middle East Technical University,tr,,0.0
+743,2017,701-800,Mississippi State University,us,,0.0
+744,2017,701-800,Murdoch University,au,,0.0
+745,2017,701-800,Nagasaki University,jp,,11.4
+746,2017,701-800,Nanchang University,cn,,0.0
+747,2017,701-800,Nanjing Normal University,cn,,0.0
+748,2017,701-800,National Chung Hsing University,tw,,0.0
+749,2017,701-800,National Sun Yat-Sen University,tw,,0.0
+750,2017,701-800,National Taiwan University of Science and Technology,tw,,0.0
+751,2017,701-800,National University of Colombia,co,,0.0
+752,2017,701-800,National University of La Plata,ar,,0.0
+753,2017,701-800,Niigata University,jp,,0.0
+754,2017,701-800,Oberlin College,us,,13.4
+755,2017,701-800,Paris Sorbonne University,fr,,0.0
+756,2017,701-800,Portland State University,us,,0.0
+757,2017,701-800,Prince of Songkla University,th,,0.0
+758,2017,701-800,Second University of Naples,it,,0.0
+759,2017,701-800,Shahid Beheshti University of Medical Sciences,ir,,0.0
+760,2017,701-800,Shinshu University,jp,,0.0
+761,2017,701-800,Technical University of Dortmund,de,,0.0
+762,2017,701-800,The Graduate University for Advanced Studies,jp,,0.0
+763,2017,701-800,The University of Akron,us,,0.0
+764,2017,701-800,Tottori University,jp,,0.0
+765,2017,701-800,Universidad Andrés Bello,cl,,0.0
+766,2017,701-800,Universiti Teknologi Malaysia,my,,0.0
+767,2017,701-800,University of Brasília,br,,0.0
+768,2017,701-800,University of Burgundy,fr,,0.0
+769,2017,701-800,University of Cagliari,it,,0.0
+770,2017,701-800,University of Calabria,it,,0.0
+771,2017,701-800,"University of California, Merced",us,,0.0
+772,2017,701-800,University of Castilla–La Mancha,es,,0.0
+773,2017,701-800,University of Concepcion,cl,,0.0
+774,2017,701-800,University of Cordoba,es,,0.0
+775,2017,701-800,University of Delhi,in,,0.0
+776,2017,701-800,University of Idaho,us,,0.0
+777,2017,701-800,University of Messina,it,,0.0
+778,2017,701-800,University of Murcia,es,,0.0
+779,2017,701-800,University of Nantes,fr,,0.0
+780,2017,701-800,University of Nebraska Medical Center,us,,0.0
+781,2017,701-800,University of Nevada - Reno,us,,0.0
+782,2017,701-800,University of Nevada-Las Vegas,us,,0.0
+783,2017,701-800,University of New England,au,,0.0
+784,2017,701-800,University of New Orleans,us,,0.0
+785,2017,701-800,University of North Carolina at Greensboro,us,,0.0
+786,2017,701-800,University of Ontario Institute of Technology,ca,,0.0
+787,2017,701-800,University of Paderborn,de,,0.0
+788,2017,701-800,University of Poitiers,fr,,11.4
+789,2017,701-800,University of Salamanca,es,,0.0
+790,2017,701-800,University of South Africa,za,,15.2
+791,2017,701-800,University of Tennessee Health Science Center,us,,0.0
+792,2017,701-800,University of Toledo,us,,0.0
+793,2017,701-800,University of Wroclaw,pl,,5.1
+794,2017,701-800,Verona University,it,,0.0
+795,2017,701-800,Vilnius University,lt,,8.8
+796,2017,701-800,Worcester Polytechnic Institute,us,,0.0
+797,2017,701-800,Yanshan University,cn,,0.0
+798,2017,701-800,Yokohama City University,jp,,0.0
+799,2017,701-800,Yunnan University,cn,,0.0

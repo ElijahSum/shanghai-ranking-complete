@@ -1,0 +1,501 @@
+,year,world_rank,institution,country_name,total_score,award
+0,2010,1,Harvard University,us,100.0,100.0
+1,2010,2,"University of California, Berkeley",us,72.4,67.6
+2,2010,3,Stanford University,us,72.1,40.2
+3,2010,4,Massachusetts Institute of Technology (MIT),us,71.4,70.5
+4,2010,5,University of Cambridge,gb,69.6,88.5
+5,2010,6,California Institute of Technology,us,64.4,50.3
+6,2010,7,Princeton University,us,60.8,56.4
+7,2010,8,Columbia University,us,60.4,70.7
+8,2010,9,University of Chicago,us,57.3,65.5
+9,2010,10,University of Oxford,gb,56.4,56.2
+10,2010,11,Yale University,us,54.6,48.6
+11,2010,12,Cornell University,us,52.6,42.3
+12,2010,13,"University of California, Los Angeles",us,52.2,27.2
+13,2010,14,"University of California, San Diego",us,50.0,15.1
+14,2010,15,University of Pennsylvania,us,49.0,32.9
+15,2010,16,University of Washington,us,48.7,24.4
+16,2010,17,University of Wisconsin - Madison,us,46.4,36.5
+17,2010,18,The Johns Hopkins University,us,46.0,43.6
+18,2010,18,"University of California, San Francisco",us,46.0,0.0
+19,2010,20,The University of Tokyo,jp,45.9,33.3
+20,2010,21,University College London,gb,44.4,32.9
+21,2010,22,University of Michigan - Ann Arbor,us,44.2,36.5
+22,2010,23,Swiss Federal Institute of Technology Zurich,ch,43.4,34.1
+23,2010,24,Kyoto University,jp,43.1,33.7
+24,2010,25,University of Illinois at Urbana-Champaign,us,42.6,35.4
+25,2010,26,The Imperial College of Science,gb,41.9,17.7
+26,2010,27,University of Toronto,ca,41.8,23.8
+27,2010,28,University of Minnesota,us,40.6,30.6
+28,2010,29,Northwestern University,us,38.4,18.5
+29,2010,30,Washington University in St. Louis,us,38.1,21.3
+30,2010,31,New York University,us,37.8,32.4
+31,2010,32,"University of California, Santa Barbara",us,37.1,16.0
+32,2010,32,University of Colorado at Boulder,us,37.1,14.1
+33,2010,34,Rockefeller University,us,36.7,19.2
+34,2010,35,Duke University,us,35.3,17.7
+35,2010,36,University of British Columbia,ca,34.7,17.7
+36,2010,36,"University of Maryland, College Park",us,34.7,22.0
+37,2010,38,The University of Texas at Austin,us,34.5,18.5
+38,2010,39,Pierre and Marie Curie University - Paris 6,fr,34.2,34.8
+39,2010,40,University of Copenhagen,dk,33.4,26.1
+40,2010,41,University of North Carolina at Chapel Hill,us,33.3,10.7
+41,2010,42,Karolinska Institute,se,33.2,26.1
+42,2010,43,Pennsylvania State University - University Park,us,32.6,11.9
+43,2010,44,The University of Manchester,gb,32.4,23.2
+44,2010,45,University of Paris Sud (Paris 11),fr,32.3,31.7
+45,2010,46,"University of California, Davis",us,32.0,0.0
+46,2010,46,"University of California, Irvine",us,32.0,0.0
+47,2010,46,University of Southern California,us,32.0,0.0
+48,2010,49,The University of Texas Southwestern Medical Center at Dallas,us,31.8,20.6
+49,2010,50,Utrecht University,nl,31.7,26.1
+50,2010,51,University of Zurich,ch,31.2,10.7
+51,2010,52,University of Munich,de,31.1,31.5
+52,2010,53,Vanderbilt University,us,31.0,17.7
+53,2010,54,Rutgers,us,30.9,13.1
+54,2010,54,The University of Edinburgh,gb,30.9,19.2
+55,2010,56,Technical University Munich,de,30.7,39.2
+56,2010,56,University of Pittsburgh,us,30.7,21.3
+57,2010,58,Carnegie Mellon University,us,30.2,32.9
+58,2010,59,The Australian National University,au,29.6,15.1
+59,2010,59,The Ohio State University - Columbus,us,29.6,15.1
+60,2010,61,McGill University,ca,29.5,31.1
+61,2010,62,University of Melbourne,au,29.3,19.9
+62,2010,63,King's College London,gb,29.1,14.1
+63,2010,63,University of Heidelberg,de,29.1,16.9
+64,2010,65,Brown University,us,29.0,16.0
+65,2010,66,University of Bristol,gb,28.9,9.2
+66,2010,66,Uppsala University,se,28.9,22.0
+67,2010,68,University of Florida,us,28.8,19.2
+68,2010,69,Purdue University - West Lafayette,us,28.6,16.0
+69,2010,70,Leiden University,nl,28.4,21.3
+70,2010,71,Ecole Normale Superieure - Paris,fr,28.3,50.8
+71,2010,72,The Hebrew University of Jerusalem,il,28.1,31.5
+72,2010,72,University of Helsinki,fi,28.1,16.0
+73,2010,74,Moscow State University,ru,27.9,46.8
+74,2010,75,Osaka University,jp,27.7,10.7
+75,2010,75,University of Oslo,no,27.7,22.0
+76,2010,77,Boston University,us,27.3,13.1
+77,2010,78,University of Arizona,us,26.8,0.0
+78,2010,79,Nagoya University,jp,26.4,24.4
+79,2010,79,Stockholm University,se,26.4,25.0
+80,2010,81,Arizona State University - Tempe,us,26.1,0.0
+81,2010,82,University of Rochester,us,25.8,0.0
+82,2010,82,University of Utah,us,25.8,28.2
+83,2010,84,Tohoku University,jp,25.7,16.0
+84,2010,84,University of Nottingham,gb,25.7,13.1
+85,2010,86,Michigan State University,us,25.5,10.7
+86,2010,86,University of Basel,ch,25.5,22.0
+87,2010,88,McMaster University,ca,25.2,14.1
+88,2010,88,The University of Sheffield,gb,25.2,19.9
+89,2010,90,Ghent University,be,25.1,7.5
+90,2010,90,Indiana University Bloomington,us,25.1,11.9
+91,2010,92,University of Sydney,au,25.0,16.9
+92,2010,93,University of Bonn,de,24.9,16.9
+93,2010,93,University of Goettingen,de,24.9,32.9
+94,2010,95,Texas A&M University - College Station,us,24.8,0.0
+95,2010,96,University of Virginia,us,24.5,0.0
+96,2010,97,Case Western Reserve University,us,24.3,34.5
+97,2010,98,Aarhus University,dk,24.2,13.1
+98,2010,99,Rice University,us,24.0,18.5
+99,2010,99,University of Birmingham,gb,24.0,21.3
+100,2010,101-150,Baylor College of Medicine,us,,0.0
+101,2010,101-150,Catholic University of Leuven,be,,0.0
+102,2010,101-150,Catholic University of Louvain,be,,11.9
+103,2010,101-150,Emory University,us,,0.0
+104,2010,101-150,Georgia Institute of Technology,us,,14.1
+105,2010,101-150,Lund University,se,,25.0
+106,2010,101-150,Mayo Medical School,us,,0.0
+107,2010,101-150,National Taiwan University,tw,,13.1
+108,2010,101-150,National University of Singapore,sg,,0.0
+109,2010,101-150,North Carolina State University - Raleigh,us,,0.0
+110,2010,101-150,Oregon State University,us,,13.1
+111,2010,101-150,Seoul National University,kr,,0.0
+112,2010,101-150,Swiss Federal Institute of Technology of Lausanne,ch,,0.0
+113,2010,101-150,Technion-Israel Institute of Technology,il,,16.0
+114,2010,101-150,Tel Aviv University,il,,0.0
+115,2010,101-150,The University of Georgia,us,,0.0
+116,2010,101-150,The University of Queensland,au,,14.1
+117,2010,101-150,The University of Western Australia,au,,15.1
+118,2010,101-150,Tokyo Institute of Technology,jp,,14.1
+119,2010,101-150,Tufts University,us,,16.0
+120,2010,101-150,University Libre Bruxelles,be,,18.5
+121,2010,101-150,University of Alberta,ca,,13.1
+122,2010,101-150,University of Amsterdam,nl,,7.5
+123,2010,101-150,"University of California, Riverside",us,,0.0
+124,2010,101-150,"University of California, Santa Cruz",us,,14.1
+125,2010,101-150,University of Frankfurt,de,,34.1
+126,2010,101-150,University of Freiburg,de,,21.3
+127,2010,101-150,University of Geneva,ch,,25.0
+128,2010,101-150,University of Groningen,nl,,0.0
+129,2010,101-150,University of Hawaii at Manoa,us,,0.0
+130,2010,101-150,University of Iowa,us,,0.0
+131,2010,101-150,University of Leeds,gb,,19.2
+132,2010,101-150,University of Liverpool,gb,,19.9
+133,2010,101-150,University of Massachusetts Amherst,us,,15.1
+134,2010,101-150,University of Massachusetts Medical School - Worcester,us,,0.0
+135,2010,101-150,University of Miami,us,,0.0
+136,2010,101-150,University of Milan,it,,19.2
+137,2010,101-150,University of Montreal,ca,,13.1
+138,2010,101-150,University of Muenster,de,,21.3
+139,2010,101-150,University of Paris Diderot (Paris 7),fr,,15.5
+140,2010,101-150,University of Pisa,it,,16.0
+141,2010,101-150,University of Roma - La Sapienza,it,,14.1
+142,2010,101-150,University of Sao Paulo,br,,0.0
+143,2010,101-150,University of Strasbourg,fr,,25.0
+144,2010,101-150,University of Sussex,gb,,0.0
+145,2010,101-150,University of Tuebingen,de,,25.0
+146,2010,101-150,University of Wageningen,nl,,0.0
+147,2010,101-150,University of Wuerzburg,de,,21.3
+148,2010,101-150,VU University Amsterdam,nl,,0.0
+149,2010,101-150,Weizmann Institute of Science,il,,14.1
+150,2010,151-200,Cardiff University,gb,,0.0
+151,2010,151-200,Colorado State University,us,,0.0
+152,2010,151-200,Dartmouth College,us,,20.6
+153,2010,151-200,Delft University of Technology,nl,,13.1
+154,2010,151-200,Erasmus University Rotterdam,nl,,0.0
+155,2010,151-200,Florida State University,us,,0.0
+156,2010,151-200,George Mason University,us,,0.0
+157,2010,151-200,Hokkaido University,jp,,0.0
+158,2010,151-200,Iowa State University,us,,0.0
+159,2010,151-200,Joseph Fourier University (Grenoble 1),fr,,0.0
+160,2010,151-200,Kyushu University,jp,,0.0
+161,2010,151-200,Louisiana State University - Baton Rouge,us,,0.0
+162,2010,151-200,Monash University,au,,0.0
+163,2010,151-200,Mount Sinai School of Medicine,us,,0.0
+164,2010,151-200,National Autonomous University of Mexico,mx,,14.1
+165,2010,151-200,Oregon Health and Science University,us,,0.0
+166,2010,151-200,Peking University,cn,,0.0
+167,2010,151-200,Radboud University Nijmegen,nl,,0.0
+168,2010,151-200,State University of New York at Stony Brook,us,,0.0
+169,2010,151-200,Technical University of Denmark,dk,,7.5
+170,2010,151-200,The Chinese University of Hong Kong,hk,,0.0
+171,2010,151-200,The University of Alabama at Birmingham,us,,0.0
+172,2010,151-200,The University of Calgary,ca,,0.0
+173,2010,151-200,The University of Connecticut - Storrs,us,,13.1
+174,2010,151-200,The University of Glasgow,gb,,10.7
+175,2010,151-200,The University of Texas Health Science Center at Houston,us,,0.0
+176,2010,151-200,The University of Texas M. D. Anderson Cancer Center,us,,0.0
+177,2010,151-200,Tsinghua University,cn,,11.9
+178,2010,151-200,University of Bern,ch,,14.1
+179,2010,151-200,University of Buenos Aires,ar,,18.5
+180,2010,151-200,University of Cologne,de,,0.0
+181,2010,151-200,University of Delaware,us,,11.9
+182,2010,151-200,University of Durham,gb,,0.0
+183,2010,151-200,University of Hamburg,de,,14.1
+184,2010,151-200,University of Illinois at Chicago,us,,0.0
+185,2010,151-200,University of Kiel,de,,13.1
+186,2010,151-200,University of Mainz,de,,0.0
+187,2010,151-200,"University of Maryland, Baltimore",us,,0.0
+188,2010,151-200,University of Nebraska - Lincoln,us,,19.9
+189,2010,151-200,University of New South Wales,au,,0.0
+190,2010,151-200,University of Padua,it,,0.0
+191,2010,151-200,University of Paris Descartes (Paris 5),fr,,13.7
+192,2010,151-200,University of Southampton,gb,,0.0
+193,2010,151-200,University of Tennessee - Knoxville,us,,11.9
+194,2010,151-200,University of Tsukuba,jp,,0.0
+195,2010,151-200,University of Vienna,at,,17.7
+196,2010,151-200,University of Warwick,gb,,0.0
+197,2010,151-200,University of Waterloo,ca,,0.0
+198,2010,151-200,Virginia Commonwealth University,us,,11.9
+199,2010,151-200,Virginia Polytechnic Institute and State University,us,,13.1
+200,2010,201-300,Autonomous University of Madrid,es,,0.0
+201,2010,201-300,Brandeis University,us,,21.3
+202,2010,201-300,Chalmers University of Technology,se,,0.0
+203,2010,201-300,Charles University in Prague,cz,,13.1
+204,2010,201-300,City University of New York City College,us,,33.7
+205,2010,201-300,Claude Bernard University Lyon 1,fr,,13.1
+206,2010,201-300,Complutense University of Madrid,es,,16.9
+207,2010,201-300,Dalhousie University,ca,,0.0
+208,2010,201-300,Ecole Polytechnique,fr,,19.2
+209,2010,201-300,Fudan University,cn,,0.0
+210,2010,201-300,Industrial Physics and Chemistry Higher Educational Institution - Paris,fr,,9.2
+211,2010,201-300,Keio University,jp,,0.0
+212,2010,201-300,Korea Advanced Institute of Science and Technology,kr,,0.0
+213,2010,201-300,Korea University,kr,,0.0
+214,2010,201-300,Lancaster University,gb,,0.0
+215,2010,201-300,Laval University,ca,,0.0
+216,2010,201-300,London School of Economics and Political Science,gb,,16.9
+217,2010,201-300,Macquarie University,au,,0.0
+218,2010,201-300,Medical University of Vienna,at,,11.9
+219,2010,201-300,Nanjing University,cn,,0.0
+220,2010,201-300,National and Kapodistrian University of Athens,gr,,0.0
+221,2010,201-300,National Cheng Kung University (NCKU),tw,,0.0
+222,2010,201-300,Newcastle University,gb,,0.0
+223,2010,201-300,Norwegian University of Science and Technology,no,,16.0
+224,2010,201-300,Paul Sabatier University (Toulouse 3),fr,,0.0
+225,2010,201-300,Polytechnic Institute of Milan,it,,9.2
+226,2010,201-300,Queen Mary,gb,,20.6
+227,2010,201-300,Queen's University,ca,,0.0
+228,2010,201-300,Queen's University Belfast,gb,,19.9
+229,2010,201-300,Rensselaer Polytechnic Institute,us,,14.1
+230,2010,201-300,Royal Institute of Technology,se,,0.0
+231,2010,201-300,RWTH Aachen University,de,,5.3
+232,2010,201-300,Shanghai Jiao Tong University,cn,,0.0
+233,2010,201-300,Simon Fraser University,ca,,0.0
+234,2010,201-300,State University of Campinas,br,,0.0
+235,2010,201-300,State University of New York at Buffalo,us,,0.0
+236,2010,201-300,Swedish University of Agricultural Sciences,se,,0.0
+237,2010,201-300,Technical University of Berlin,de,,19.9
+238,2010,201-300,The George Washington University,us,,13.1
+239,2010,201-300,The Hong Kong Polytechnic University,hk,,0.0
+240,2010,201-300,The Hong Kong University of Science and Technology,hk,,0.0
+241,2010,201-300,The University of Adelaide,au,,16.9
+242,2010,201-300,The University of Auckland,nz,,15.1
+243,2010,201-300,The University of Hong Kong,hk,,0.0
+244,2010,201-300,The University of New Mexico - Albuquerque,us,,0.0
+245,2010,201-300,The University of Reading,gb,,0.0
+246,2010,201-300,The University of Texas Health Science Center at San Antonio,us,,0.0
+247,2010,201-300,Trinity College Dublin,ie,,13.1
+248,2010,201-300,Umea University,se,,0.0
+249,2010,201-300,University of Aberdeen,gb,,0.0
+250,2010,201-300,University of Antwerp,be,,0.0
+251,2010,201-300,University of Barcelona,es,,0.0
+252,2010,201-300,University of Bergen,no,,0.0
+253,2010,201-300,University of Bochum,de,,0.0
+254,2010,201-300,University of Bologna,it,,0.0
+255,2010,201-300,University of Cape Town,za,,21.3
+256,2010,201-300,University of Central Florida,us,,0.0
+257,2010,201-300,University of Cincinnati,us,,0.0
+258,2010,201-300,University of Colorado at Denver,us,,0.0
+259,2010,201-300,University of Duesseldorf,de,,13.1
+260,2010,201-300,University of East Anglia,gb,,15.1
+261,2010,201-300,University of Erlangen-Nuremberg,de,,0.0
+262,2010,201-300,University of Florence,it,,0.0
+263,2010,201-300,University of Gothenburg,se,,0.0
+264,2010,201-300,University of Guelph,ca,,0.0
+265,2010,201-300,University of Halle-Wittenberg,de,,5.3
+266,2010,201-300,University of Houston,us,,0.0
+267,2010,201-300,University of Innsbruck,at,,0.0
+268,2010,201-300,University of Kansas - Lawrence,us,,13.1
+269,2010,201-300,University of Kentucky,us,,11.9
+270,2010,201-300,University of Lausanne,ch,,0.0
+271,2010,201-300,University of Leicester,gb,,0.0
+272,2010,201-300,University of Leipzig,de,,15.1
+273,2010,201-300,University of Liege,be,,9.2
+274,2010,201-300,University of Manitoba,ca,,0.0
+275,2010,201-300,University of Marburg,de,,15.1
+276,2010,201-300,University of Medicine and Dentistry New Jersey,us,,0.0
+277,2010,201-300,University of Missouri - Columbia,us,,10.7
+278,2010,201-300,University of Montpellier 2,fr,,11.9
+279,2010,201-300,University of Notre Dame,us,,14.1
+280,2010,201-300,University of Oregon,us,,11.9
+281,2010,201-300,University of Otago,nz,,0.0
+282,2010,201-300,University of Ottawa,ca,,0.0
+283,2010,201-300,University of Saskatchewan,ca,,10.7
+284,2010,201-300,University of Science and Technology of China,cn,,0.0
+285,2010,201-300,University of South Carolina - Columbia,us,,0.0
+286,2010,201-300,University of South Florida,us,,0.0
+287,2010,201-300,University of St Andrews,gb,,11.9
+288,2010,201-300,University of Stuttgart,de,,20.6
+289,2010,201-300,University of the Mediterranean (Aix-Marseille 2),fr,,0.0
+290,2010,201-300,University of Turin,it,,18.5
+291,2010,201-300,University of Valencia,es,,0.0
+292,2010,201-300,University of Vermont,us,,15.1
+293,2010,201-300,University of Victoria,ca,,0.0
+294,2010,201-300,University of York,gb,,0.0
+295,2010,201-300,Washington State University - Pullman,us,,0.0
+296,2010,201-300,Western University,ca,,0.0
+297,2010,201-300,Yeshiva University,us,,0.0
+298,2010,201-300,Yonsei University,kr,,0.0
+299,2010,201-300,Zhejiang University,cn,,0.0
+300,2010,301-400,Aristotle University of Thessaloniki,gr,,0.0
+301,2010,301-400,Autonomous University of Barcelona,es,,0.0
+302,2010,301-400,Bar-Ilan University,il,,0.0
+303,2010,301-400,Ben-Gurion University of the Negev,il,,0.0
+304,2010,301-400,Brigham Young University,us,,10.7
+305,2010,301-400,City University of Hong Kong,hk,,0.0
+306,2010,301-400,Clemson University,us,,0.0
+307,2010,301-400,Dresden University of Technology,de,,0.0
+308,2010,301-400,Drexel University,us,,0.0
+309,2010,301-400,Eotvos Lorand University,hu,,16.9
+310,2010,301-400,Federal University of Minas Gerais,br,,0.0
+311,2010,301-400,Federal University of Rio de Janeiro,br,,0.0
+312,2010,301-400,Flinders University,au,,16.9
+313,2010,301-400,Georgetown University,us,,0.0
+314,2010,301-400,Hanyang University,kr,,0.0
+315,2010,301-400,Henri Poincare University (Nancy 1),fr,,13.1
+316,2010,301-400,Hiroshima University,jp,,0.0
+317,2010,301-400,Indian Institute of Science,in,,0.0
+318,2010,301-400,Jagiellonian University,pl,,11.9
+319,2010,301-400,James Cook University,au,,0.0
+320,2010,301-400,Kanazawa University,jp,,0.0
+321,2010,301-400,Kansas State University,us,,0.0
+322,2010,301-400,King Saud University,sa,,0.0
+323,2010,301-400,Kobe University,jp,,0.0
+324,2010,301-400,London School of Hygiene and Tropical Medicine,gb,,9.2
+325,2010,301-400,Medical University of Graz,at,,0.0
+326,2010,301-400,Medical University of Innsbruck,at,,0.0
+327,2010,301-400,Medical University of South Carolina,us,,0.0
+328,2010,301-400,Nagasaki University,jp,,13.1
+329,2010,301-400,Nanyang Technological University,sg,,0.0
+330,2010,301-400,National Chiao Tung University,tw,,0.0
+331,2010,301-400,National Tsing Hua University,tw,,14.1
+332,2010,301-400,Okayama University,jp,,0.0
+333,2010,301-400,Pohang University of Science and Technology,kr,,0.0
+334,2010,301-400,Polytechnic University of Valencia,es,,0.0
+335,2010,301-400,Saint Louis University,us,,0.0
+336,2010,301-400,Saint Petersburg State University,ru,,26.1
+337,2010,301-400,San Diego State University,us,,0.0
+338,2010,301-400,Sao Paulo State University,br,,0.0
+339,2010,301-400,Scuola Normale Superiore - Pisa,it,,0.0
+340,2010,301-400,Shandong University,cn,,0.0
+341,2010,301-400,Sichuan University,cn,,0.0
+342,2010,301-400,State University of New York at Albany,us,,0.0
+343,2010,301-400,State University of New York Health Science Center at Brooklyn,us,,0.0
+344,2010,301-400,Stockholm School of Economics,se,,0.0
+345,2010,301-400,Sun Yat-sen University,cn,,0.0
+346,2010,301-400,Sungkyunkwan University,kr,,0.0
+347,2010,301-400,Syracuse University,us,,0.0
+348,2010,301-400,Technical University Darmstadt,de,,16.9
+349,2010,301-400,Temple University,us,,0.0
+350,2010,301-400,Texas Tech University,us,,0.0
+351,2010,301-400,The Open University,gb,,0.0
+352,2010,301-400,The University of Dundee,gb,,0.0
+353,2010,301-400,The University of Montana - Missoula,us,,7.5
+354,2010,301-400,The University of Texas at Dallas,us,,0.0
+355,2010,301-400,The University of Texas Medical Branch at Galveston,us,,0.0
+356,2010,301-400,Thomas Jefferson University,us,,0.0
+357,2010,301-400,Tokyo Medical and Dental University,jp,,0.0
+358,2010,301-400,Tulane University,us,,0.0
+359,2010,301-400,University College Dublin,ie,,0.0
+360,2010,301-400,University of Alaska - Fairbanks,us,,0.0
+361,2010,301-400,University of Arkansas at Fayetteville,us,,0.0
+362,2010,301-400,University of Bath,gb,,0.0
+363,2010,301-400,University of Bielefeld,de,,0.0
+364,2010,301-400,University of Bordeaux 1,fr,,7.5
+365,2010,301-400,University of Bremen,de,,0.0
+366,2010,301-400,University of Duisburg-Essen,de,,0.0
+367,2010,301-400,Exeter University,gb,,0.0
+368,2010,301-400,University of Genova,it,,0.0
+369,2010,301-400,University of Graz,at,,10.7
+370,2010,301-400,University of Jena,de,,0.0
+371,2010,301-400,University of Karlsruhe,de,,5.3
+372,2010,301-400,University of Konstanz,de,,0.0
+373,2010,301-400,University of Maastricht,nl,,0.0
+374,2010,301-400,University of Naples Federico II,it,,0.0
+375,2010,301-400,University of Nevada - Reno,us,,0.0
+376,2010,301-400,University of New Hampshire - Durham,us,,0.0
+377,2010,301-400,University of Newcastle,au,,0.0
+378,2010,301-400,University of Nice Sophia Antipolis,fr,,0.0
+379,2010,301-400,University of Oklahoma - Norman,us,,0.0
+380,2010,301-400,University of Oulu,fi,,13.1
+381,2010,301-400,University of Palermo,it,,0.0
+382,2010,301-400,University of Paris Dauphine (Paris 9),fr,,0.0
+383,2010,301-400,University of Pompeu Fabra,es,,0.0
+384,2010,301-400,University of Provence (Aix-Marseille 1),fr,,16.0
+385,2010,301-400,University of Regensburg,de,,0.0
+386,2010,301-400,University of Rhode Island,us,,0.0
+387,2010,301-400,University of Roma - Tor Vergata,it,,0.0
+388,2010,301-400,University of Southern Denmark,dk,,0.0
+389,2010,301-400,University of Szeged,hu,,0.0
+390,2010,301-400,University of the Witwatersrand,za,,21.3
+391,2010,301-400,University of Tromso,no,,0.0
+392,2010,301-400,University of Turku,fi,,0.0
+393,2010,301-400,University of Twente,nl,,0.0
+394,2010,301-400,University of Ulm,de,,0.0
+395,2010,301-400,University of Warsaw,pl,,18.5
+396,2010,301-400,University of Wollongong,au,,0.0
+397,2010,301-400,Wake Forest University,us,,0.0
+398,2010,301-400,Waseda University,jp,,0.0
+399,2010,301-400,Wayne State University,us,,0.0
+400,2010,401-500,Aalto University,fi,,0.0
+401,2010,401-500,Auburn University,us,,0.0
+402,2010,401-500,Boston College,us,,0.0
+403,2010,401-500,Brunel University,gb,,0.0
+404,2010,401-500,Carleton University,ca,,0.0
+405,2010,401-500,Catholic University of Chile,cl,,0.0
+406,2010,401-500,Catholic University of the Sacred Heart,it,,0.0
+407,2010,401-500,Chang Gung University,tw,,0.0
+408,2010,401-500,Chiba University,jp,,0.0
+409,2010,401-500,China Agricultural University,cn,,0.0
+410,2010,401-500,Concordia University,ca,,0.0
+411,2010,401-500,Curtin University of Technology,au,,0.0
+412,2010,401-500,Dalian University of Technology,cn,,0.0
+413,2010,401-500,Ecole National Superieure Mines - Paris,fr,,16.0
+414,2010,401-500,Ecole Normale Superieure - Lyon,fr,,0.0
+415,2010,401-500,Eindhoven University of Technology,nl,,0.0
+416,2010,401-500,Federal University of Rio Grande do Sul,br,,0.0
+417,2010,401-500,Gunma University,jp,,0.0
+418,2010,401-500,Hannover Medical School,de,,0.0
+419,2010,401-500,Harbin Institute of Technology,cn,,0.0
+420,2010,401-500,Huazhong University of Science and Technology,cn,,0.0
+421,2010,401-500,Indian Institute of Technology Kharagpur,in,,0.0
+422,2010,401-500,Indiana University-Purdue University at Indianapolis,us,,0.0
+423,2010,401-500,Istanbul University,tr,,15.1
+424,2010,401-500,Jilin University,cn,,0.0
+425,2010,401-500,Kent State University,us,,0.0
+426,2010,401-500,King Fahd University of Petroleum & Minerals,sa,,0.0
+427,2010,401-500,Kyung Hee University,kr,,0.0
+428,2010,401-500,Kyungpook National University,kr,,0.0
+429,2010,401-500,La Trobe University,au,,0.0
+430,2010,401-500,Lanzhou University,cn,,0.0
+431,2010,401-500,Lehigh University,us,,0.0
+432,2010,401-500,Linkoping University,se,,0.0
+433,2010,401-500,Massey University,nz,,0.0
+434,2010,401-500,Medical College of Wisconsin,us,,0.0
+435,2010,401-500,Montana State University - Bozeman,us,,0.0
+436,2010,401-500,Nankai University,cn,,0.0
+437,2010,401-500,National Central University,tw,,0.0
+438,2010,401-500,National Yang Ming University,tw,,0.0
+439,2010,401-500,Nihon University,jp,,0.0
+440,2010,401-500,Niigata University,jp,,0.0
+441,2010,401-500,Northeastern University,us,,0.0
+442,2010,401-500,Ohio University,us,,15.1
+443,2010,401-500,Osaka Prefecture University,jp,,0.0
+444,2010,401-500,Polytechnic University of Turin,it,,0.0
+445,2010,401-500,Portland State University,us,,0.0
+446,2010,401-500,Pusan National University,kr,,0.0
+447,2010,401-500,Southeast University,cn,,0.0
+448,2010,401-500,Swinburne University of Technology,au,,0.0
+449,2010,401-500,Technical University of Braunschweig,de,,14.1
+450,2010,401-500,The University of Connecticut Health Center,us,,0.0
+451,2010,401-500,The University of Texas at San Antonio,us,,0.0
+452,2010,401-500,The University of Tokushima,jp,,0.0
+453,2010,401-500,Tianjin University,cn,,0.0
+454,2010,401-500,Tokyo University of Agriculture and Technology,jp,,0.0
+455,2010,401-500,University College Cork,ie,,0.0
+456,2010,401-500,University of Arkansas at Little Rock,us,,0.0
+457,2010,401-500,University of Bari,it,,0.0
+458,2010,401-500,University of Bayreuth,de,,0.0
+459,2010,401-500,University of Canterbury,nz,,0.0
+460,2010,401-500,University of Chile,cl,,9.2
+461,2010,401-500,University of Eastern Finland,fi,,0.0
+462,2010,401-500,University of Essex,gb,,15.1
+463,2010,401-500,University of Ferrara,it,,0.0
+464,2010,401-500,University of Giessen,de,,0.0
+465,2010,401-500,University of Granada,es,,0.0
+466,2010,401-500,University of Greifswald,de,,0.0
+467,2010,401-500,University of Haifa,il,,0.0
+468,2010,401-500,University of Hannover,de,,0.0
+469,2010,401-500,University of Jyvaskyla,fi,,0.0
+470,2010,401-500,University of Kansas Medical Center,us,,0.0
+471,2010,401-500,University of KwaZulu-Natal,za,,0.0
+472,2010,401-500,University of Lisbon,pt,,0.0
+473,2010,401-500,University of Ljubljana,si,,0.0
+474,2010,401-500,University of Milan - Bicocca,it,,0.0
+475,2010,401-500,University of Nebraska Medical Center,us,,0.0
+476,2010,401-500,University of Parma,it,,0.0
+477,2010,401-500,University of Pavia,it,,0.0
+478,2010,401-500,University of Perugia,it,,0.0
+479,2010,401-500,University of Porto,pt,,0.0
+480,2010,401-500,University of Quebec,ca,,0.0
+481,2010,401-500,University of Rennes 1,fr,,0.0
+482,2010,401-500,University of Santiago Compostela,es,,0.0
+483,2010,401-500,University of Sherbrooke,ca,,0.0
+484,2010,401-500,University of Siena,it,,0.0
+485,2010,401-500,University of Surrey,gb,,0.0
+486,2010,401-500,University of Tasmania,au,,0.0
+487,2010,401-500,University of Tehran,ir,,14.1
+488,2010,401-500,University of Versailles,fr,,0.0
+489,2010,401-500,University of Wyoming,us,,0.0
+490,2010,401-500,University of Zaragoza,es,,0.0
+491,2010,401-500,Utah State University,us,,0.0
+492,2010,401-500,Victoria University of Wellington,nz,,13.1
+493,2010,401-500,Vienna University of Technology,at,,0.0
+494,2010,401-500,Vrije University Brussel,be,,15.1
+495,2010,401-500,Wuhan University,cn,,0.0
+496,2010,401-500,Xiamen University,cn,,0.0
+497,2010,401-500,Xian Jiao Tong University,cn,,0.0
+498,2010,401-500,Yamaguchi University,jp,,0.0
+499,2010,401-500,York University,ca,,0.0

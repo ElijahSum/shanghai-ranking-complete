@@ -1,0 +1,1001 @@
+,year,world_rank,institution,country_name,total_score,award
+0,2022,1,Harvard University,us,100.0,100.0
+1,2022,2,Stanford University,us,76.8,45.0
+2,2022,3,Massachusetts Institute of Technology (MIT),us,70.1,72.8
+3,2022,4,University of Cambridge,gb,69.6,78.8
+4,2022,5,"University of California, Berkeley",us,65.3,65.4
+5,2022,6,Princeton University,us,60.0,62.9
+6,2022,7,University of Oxford,gb,58.7,48.0
+7,2022,8,Columbia University,us,57.2,58.5
+8,2022,9,California Institute of Technology,us,56.1,56.0
+9,2022,10,University of Chicago,us,55.1,57.7
+10,2022,11,Yale University,us,53.2,48.3
+11,2022,12,Cornell University,us,50.4,41.7
+12,2022,13,"University of California, Los Angeles",us,50.2,30.7
+13,2022,14,Johns Hopkins University,us,47.9,37.7
+14,2022,15,University of Pennsylvania,us,47.5,32.9
+15,2022,16,Paris-Saclay University,fr,47.0,27.9
+16,2022,17,University of Washington,us,46.8,23.3
+17,2022,18,University College London,gb,46.6,27.7
+18,2022,19,"University of California, San Francisco",us,45.9,0.0
+19,2022,20,ETH Zurich,ch,45.6,27.2
+20,2022,21,"University of California, San Diego",us,45.5,18.5
+21,2022,22,University of Toronto,ca,40.5,16.9
+22,2022,23,Imperial College London,gb,40.3,13.1
+23,2022,24,The University of Tokyo,jp,39.8,37.4
+24,2022,25,New York University,us,39.5,27.2
+25,2022,26,Tsinghua University,cn,39.3,9.2
+26,2022,27,Washington University in St. Louis,us,39.1,21.4
+27,2022,28,University of Michigan-Ann Arbor,us,39.0,34.2
+28,2022,29,University of North Carolina at Chapel Hill,us,38.0,7.5
+29,2022,30,Northwestern University,us,37.3,13.1
+30,2022,31,Duke University,us,37.2,20.0
+31,2022,32,The University of Melbourne,au,36.6,15.1
+32,2022,33,University of Wisconsin - Madison,us,36.1,28.7
+33,2022,34,Peking University,cn,35.9,10.7
+34,2022,35,The University of Edinburgh,gb,35.4,26.1
+35,2022,36,Zhejiang University,cn,34.7,0.0
+36,2022,37,The University of Texas at Austin,us,34.6,23.9
+37,2022,38,The University of Manchester,gb,34.5,15.1
+38,2022,39,University of Copenhagen,dk,34.4,19.2
+39,2022,40,PSL University,fr,34.3,51.8
+40,2022,41,Karolinska Institute,se,34.2,23.3
+41,2022,41,Kyoto University,jp,34.2,34.6
+42,2022,43,Sorbonne University,fr,33.9,37.1
+43,2022,44,Rockefeller University,us,33.8,16.0
+44,2022,44,University of British Columbia,ca,33.8,14.1
+45,2022,44,"University of Minnesota, Twin Cities",us,33.8,26.7
+46,2022,47,The University of Queensland,au,33.6,11.9
+47,2022,48,King's College London,gb,33.4,23.9
+48,2022,49,University of Illinois at Urbana-Champaign,us,33.3,26.1
+49,2022,50,"University of Maryland, College Park",us,33.1,17.7
+50,2022,51,University of Colorado at Boulder,us,33.0,11.9
+51,2022,52,The University of Texas Southwestern Medical Center at Dallas,us,32.9,17.7
+52,2022,53,University of Southern California,us,32.6,0.0
+53,2022,54,Shanghai Jiao Tong University,cn,32.0,0.0
+54,2022,54,Utrecht University,nl,32.0,21.4
+55,2022,56,Technical University of Munich,de,31.7,35.0
+56,2022,57,"University of California, Santa Barbara",us,31.5,14.1
+57,2022,57,University of Munich,de,31.5,25.6
+58,2022,59,University of Zurich,ch,31.4,0.0
+59,2022,60,University of Sydney,au,30.8,13.1
+60,2022,61,"University of California, Irvine",us,30.7,15.1
+61,2022,62,University of Geneva,ch,30.3,34.6
+62,2022,62,University of Science and Technology of China,cn,30.3,0.0
+63,2022,64,The University of New South Wales,au,30.2,0.0
+64,2022,64,Vanderbilt University,us,30.2,14.1
+65,2022,66,University of Groningen,nl,30.1,13.1
+66,2022,67,Fudan University,cn,30.0,0.0
+67,2022,67,University of Oslo,no,30.0,25.6
+68,2022,69,Aarhus University,dk,29.7,10.7
+69,2022,70,Heidelberg University,de,29.5,18.5
+70,2022,71,National University of Singapore,sg,29.3,0.0
+71,2022,71,The University of Texas M. D. Anderson Cancer Center,us,29.3,0.0
+72,2022,73,McGill University,ca,29.1,30.7
+73,2022,74,Ghent University,be,28.9,0.0
+74,2022,75,Monash University,au,28.4,0.0
+75,2022,76,University of Bonn,de,28.1,26.1
+76,2022,77,The Hebrew University of Jerusalem,il,27.9,30.7
+77,2022,78,Université Paris Cité,fr,27.7,14.3
+78,2022,79,Sun Yat-sen University,cn,27.5,0.0
+79,2022,79,The Australian National University,au,27.5,13.1
+80,2022,81,University of Bristol,gb,27.4,5.3
+81,2022,82,University of Pittsburgh,us,27.3,16.9
+82,2022,83,Purdue University - West Lafayette,us,27.2,11.9
+83,2022,83,Technion-Israel Institute of Technology,il,27.2,22.6
+84,2022,83,University of Basel,ch,27.2,22.0
+85,2022,83,Weizmann Institute of Science,il,27.2,16.9
+86,2022,87,Erasmus University Rotterdam,nl,27.0,14.1
+87,2022,88,Nanyang Technological University,sg,26.9,0.0
+88,2022,89,Uppsala University,se,26.8,15.1
+89,2022,90,McMaster University,ca,26.7,18.5
+90,2022,90,Stockholm University,se,26.7,21.4
+91,2022,92,University of Alberta,ca,26.5,10.7
+92,2022,92,University of Helsinki,fi,26.5,16.0
+93,2022,94,University of Florida,us,26.4,16.0
+94,2022,95,KU Leuven,be,26.3,0.0
+95,2022,96,Huazhong University of Science and Technology,cn,26.1,0.0
+96,2022,96,The University of Hong Kong,hk,26.1,0.0
+97,2022,98,Seoul National University,kr,25.9,0.0
+98,2022,99,Brown University,us,25.8,20.7
+99,2022,99,The University of Western Australia,au,25.8,20.0
+100,2022,101-150,Aix Marseille University,fr,,11.9
+101,2022,101-150,Arizona State University,us,,0.0
+102,2022,101-150,Boston University,us,,10.7
+103,2022,101-150,Carnegie Mellon University,us,,29.7
+104,2022,101-150,Case Western Reserve University,us,,30.7
+105,2022,101-150,Central South University,cn,,0.0
+106,2022,101-150,Emory University,us,,0.0
+107,2022,101-150,Icahn School of Medicine at Mount Sinai,us,,0.0
+108,2022,101-150,Indiana University Bloomington,us,,9.2
+109,2022,101-150,King Abdulaziz University,sa,,0.0
+110,2022,101-150,King Saud University,sa,,0.0
+111,2022,101-150,Leiden University,nl,,15.1
+112,2022,101-150,London School of Economics and Political Science,gb,,22.6
+113,2022,101-150,Mayo Clinic Alix School of Medicine,us,,0.0
+114,2022,101-150,Moscow State University,ru,,38.9
+115,2022,101-150,Nagoya University,jp,,27.7
+116,2022,101-150,Nanjing University,cn,,0.0
+117,2022,101-150,Norwegian University of Science and Technology - NTNU,no,,11.9
+118,2022,101-150,Radboud University Nijmegen,nl,,16.0
+119,2022,101-150,Rice University,us,,15.1
+120,2022,101-150,"Rutgers, The State University of New Jersey - New Brunswick",us,,7.5
+121,2022,101-150,Sapienza University of Rome,it,,15.1
+122,2022,101-150,Sichuan University,cn,,0.0
+123,2022,101-150,Swiss Federal Institute of Technology Lausanne,ch,,0.0
+124,2022,101-150,The Chinese University of Hong Kong,hk,,0.0
+125,2022,101-150,The Ohio State University - Columbus,us,,10.7
+126,2022,101-150,Pennsylvania State University - University Park,us,,9.2
+127,2022,101-150,The University of Adelaide,au,,13.1
+128,2022,101-150,The University of Glasgow,gb,,15.1
+129,2022,101-150,The University of Sheffield,gb,,16.9
+130,2022,101-150,Université Grenoble Alpes,fr,,11.9
+131,2022,101-150,Université libre de Bruxelles (ULB),be,,18.5
+132,2022,101-150,University of Amsterdam,nl,,0.0
+133,2022,101-150,University of Arizona,us,,14.1
+134,2022,101-150,University of Bern,ch,,11.9
+135,2022,101-150,University of Birmingham,gb,,16.9
+136,2022,101-150,"University of California, Davis",us,,13.1
+137,2022,101-150,University of Exeter,gb,,0.0
+138,2022,101-150,University of Freiburg,de,,21.4
+139,2022,101-150,University of Gothenburg,se,,0.0
+140,2022,101-150,University of Lausanne,ch,,16.9
+141,2022,101-150,University of Liverpool,gb,,15.1
+142,2022,101-150,University of Montreal,ca,,10.7
+143,2022,101-150,University of Nottingham,gb,,19.2
+144,2022,101-150,University of Sao Paulo,br,,0.0
+145,2022,101-150,University of Strasbourg,fr,,26.7
+146,2022,101-150,University of Utah,us,,0.0
+147,2022,101-150,University of Warwick,gb,,13.1
+148,2022,101-150,Wuhan University,cn,,0.0
+149,2022,101-150,Xi'an Jiaotong University,cn,,0.0
+150,2022,151-200,Baylor College of Medicine,us,,0.0
+151,2022,151-200,Beijing Institute of Technology,cn,,0.0
+152,2022,151-200,Cardiff University,gb,,0.0
+153,2022,151-200,City University of Hong Kong,hk,,0.0
+154,2022,151-200,Delft University of Technology,nl,,10.7
+155,2022,151-200,Georgia Institute of Technology,us,,11.9
+156,2022,151-200,Goethe University Frankfurt,de,,32.5
+157,2022,151-200,Harbin Institute of Technology,cn,,0.0
+158,2022,151-200,Jilin University,cn,,0.0
+159,2022,151-200,London School of Hygiene & Tropical Medicine,gb,,5.3
+160,2022,151-200,Lund University,se,,18.5
+161,2022,151-200,Michigan State University,us,,7.5
+162,2022,151-200,Northwestern Polytechnical University,cn,,0.0
+163,2022,151-200,Osaka University,jp,,17.7
+164,2022,151-200,Shandong University,cn,,0.0
+165,2022,151-200,Soochow University (China),cn,,0.0
+166,2022,151-200,South China University of Technology,cn,,0.0
+167,2022,151-200,Southeast University,cn,,0.0
+168,2022,151-200,Southern University of Science and Technology,cn,,0.0
+169,2022,151-200,Technical University of Denmark,dk,,0.0
+170,2022,151-200,Tel Aviv University,il,,0.0
+171,2022,151-200,Texas A&M University,us,,0.0
+172,2022,151-200,The Hong Kong Polytechnic University,hk,,0.0
+173,2022,151-200,The University of Calgary,ca,,0.0
+174,2022,151-200,Tianjin University,cn,,0.0
+175,2022,151-200,Tohoku University,jp,,14.1
+176,2022,151-200,Tokyo Institute of Technology,jp,,11.9
+177,2022,151-200,Tongji University,cn,,0.0
+178,2022,151-200,Trinity College Dublin,ie,,13.1
+179,2022,151-200,Tufts University,us,,17.7
+180,2022,151-200,University of Barcelona,es,,0.0
+181,2022,151-200,"University of California, Santa Cruz",us,,0.0
+182,2022,151-200,University of Cologne,de,,0.0
+183,2022,151-200,University of Electronic Science and Technology of China,cn,,0.0
+184,2022,151-200,University of Goettingen,de,,30.2
+185,2022,151-200,University of Leeds,gb,,16.0
+186,2022,151-200,University of Massachusetts Amherst,us,,13.1
+187,2022,151-200,University of Milan,it,,16.0
+188,2022,151-200,University of Montpellier,fr,,9.2
+189,2022,151-200,University of Padua,it,,0.0
+190,2022,151-200,University of Pisa,it,,20.0
+191,2022,151-200,University of Rochester,us,,31.6
+192,2022,151-200,University of Southampton,gb,,0.0
+193,2022,151-200,University of Sussex,gb,,0.0
+194,2022,151-200,University of Tuebingen,de,,21.4
+195,2022,151-200,University of Vienna,at,,10.7
+196,2022,151-200,University of Waterloo,ca,,0.0
+197,2022,151-200,Vrije Universiteit Amsterdam,nl,,0.0
+198,2022,151-200,Wageningen University & Research,nl,,0.0
+199,2022,151-200,Xiamen University,cn,,0.0
+200,2022,201-300,Autonomous University of Barcelona,es,,0.0
+201,2022,201-300,Beihang University,cn,,0.0
+202,2022,201-300,Beijing Normal University,cn,,15.1
+203,2022,201-300,Catholic University of Louvain,be,,9.2
+204,2022,201-300,China Agricultural University,cn,,0.0
+205,2022,201-300,China Medical University (Taichung),tw,,0.0
+206,2022,201-300,Chongqing University,cn,,0.0
+207,2022,201-300,Claude Bernard University Lyon 1,fr,,9.2
+208,2022,201-300,Colorado State University,us,,0.0
+209,2022,201-300,Complutense University of Madrid,es,,16.9
+210,2022,201-300,Curtin University,au,,0.0
+211,2022,201-300,Dalian University of Technology,cn,,0.0
+212,2022,201-300,Deakin University,au,,0.0
+213,2022,201-300,East China Normal University,cn,,0.0
+214,2022,201-300,Florida State University,us,,0.0
+215,2022,201-300,George Mason University,us,,0.0
+216,2022,201-300,Griffith University,au,,0.0
+217,2022,201-300,Hanyang University,kr,,0.0
+218,2022,201-300,Hokkaido University,jp,,10.7
+219,2022,201-300,Hunan University,cn,,0.0
+220,2022,201-300,Jiangsu University,cn,,0.0
+221,2022,201-300,Karlsruhe Institute of Technology (KIT),de,,0.0
+222,2022,201-300,King Abdullah University of Science and Technology,sa,,0.0
+223,2022,201-300,Korea Advanced Institute of Science and Technology,kr,,0.0
+224,2022,201-300,Korea University,kr,,0.0
+225,2022,201-300,KTH Royal Institute of Technology,se,,0.0
+226,2022,201-300,La Trobe University,au,,0.0
+227,2022,201-300,Maastricht University,nl,,0.0
+228,2022,201-300,Macquarie University,au,,0.0
+229,2022,201-300,Medical University of Vienna,at,,7.5
+230,2022,201-300,Nanjing Medical University,cn,,0.0
+231,2022,201-300,Nankai University,cn,,0.0
+232,2022,201-300,National Autonomous University of Mexico,mx,,11.9
+233,2022,201-300,National Taiwan University,tw,,10.7
+234,2022,201-300,Newcastle University,gb,,0.0
+235,2022,201-300,North Carolina State University - Raleigh,us,,0.0
+236,2022,201-300,Northeastern University (Boston),us,,0.0
+237,2022,201-300,Oregon Health and Science University,us,,0.0
+238,2022,201-300,Oregon State University,us,,7.5
+239,2022,201-300,Paul Sabatier University (Toulouse 3),fr,,0.0
+240,2022,201-300,Polytechnic University of Milan,it,,5.3
+241,2022,201-300,Queen Mary University of London,gb,,16.0
+242,2022,201-300,Queen's University,ca,,13.1
+243,2022,201-300,Queensland University of Technology,au,,0.0
+244,2022,201-300,RWTH Aachen University,de,,0.0
+245,2022,201-300,Shanghai University,cn,,0.0
+246,2022,201-300,Shenzhen University,cn,,0.0
+247,2022,201-300,Sungkyunkwan University,kr,,0.0
+248,2022,201-300,Swinburne University of Technology,au,,0.0
+249,2022,201-300,The George Washington University,us,,10.7
+250,2022,201-300,The University of Auckland,nz,,13.1
+251,2022,201-300,TU Dresden,de,,0.0
+252,2022,201-300,Ulsan National Institute of Science and Technology,kr,,0.0
+253,2022,201-300,University of Aberdeen,gb,,0.0
+254,2022,201-300,University of Antwerp,be,,0.0
+255,2022,201-300,University of Bologna,it,,0.0
+256,2022,201-300,University of Bordeaux,fr,,0.0
+257,2022,201-300,University of Buenos Aires,ar,,11.9
+258,2022,201-300,"University of California, Riverside",us,,11.9
+259,2022,201-300,University of Cape Town,za,,16.9
+260,2022,201-300,University of Colorado at Denver,us,,0.0
+261,2022,201-300,University of Delaware,us,,9.2
+262,2022,201-300,University of East Anglia,gb,,22.6
+263,2022,201-300,University of Erlangen-Nuremberg,de,,0.0
+264,2022,201-300,University of Granada,es,,0.0
+265,2022,201-300,University of Hamburg,de,,14.1
+266,2022,201-300,University of Houston,us,,0.0
+267,2022,201-300,University of Iowa,us,,0.0
+268,2022,201-300,University of Kansas,us,,16.9
+269,2022,201-300,University of Kiel,de,,7.5
+270,2022,201-300,University of Leipzig,de,,9.2
+271,2022,201-300,University of Lisbon,pt,,0.0
+272,2022,201-300,University of Lorraine,fr,,10.7
+273,2022,201-300,University of Mainz,de,,0.0
+274,2022,201-300,University of Manitoba,ca,,10.7
+275,2022,201-300,University of Massachusetts Medical School - Worcester,us,,0.0
+276,2022,201-300,University of Miami,us,,0.0
+277,2022,201-300,University of Missouri - Columbia,us,,7.5
+278,2022,201-300,University of Muenster,de,,18.5
+279,2022,201-300,University of Naples Federico II,it,,0.0
+280,2022,201-300,University of Nebraska - Lincoln,us,,15.1
+281,2022,201-300,University of Ottawa,ca,,0.0
+282,2022,201-300,University of Porto,pt,,0.0
+283,2022,201-300,University of Science and Technology Beijing,cn,,0.0
+284,2022,201-300,University of South Florida,us,,0.0
+285,2022,201-300,University of Southern Denmark,dk,,0.0
+286,2022,201-300,University of Tasmania,au,,0.0
+287,2022,201-300,University of Technology Sydney,au,,0.0
+288,2022,201-300,University of Tennessee - Knoxville,us,,9.2
+289,2022,201-300,University of Tsukuba,jp,,0.0
+290,2022,201-300,University of Turin,it,,13.1
+291,2022,201-300,University of Valencia,es,,0.0
+292,2022,201-300,University of Virginia,us,,0.0
+293,2022,201-300,University of Wollongong,au,,0.0
+294,2022,201-300,University of Wuerzburg,de,,18.5
+295,2022,201-300,Virginia Commonwealth University,us,,9.2
+296,2022,201-300,Virginia Polytechnic Institute and State University,us,,10.7
+297,2022,201-300,Western University,ca,,0.0
+298,2022,201-300,Yonsei University,kr,,0.0
+299,2022,201-300,Zhengzhou University,cn,,0.0
+300,2022,301-400,Aalborg University,dk,,0.0
+301,2022,301-400,Aalto University,fi,,0.0
+302,2022,301-400,Albert Einstein College of Medicine,us,,0.0
+303,2022,301-400,Autonomous University of Madrid,es,,0.0
+304,2022,301-400,Bar-Ilan University,il,,0.0
+305,2022,301-400,Beijing University of Chemical Technology,cn,,0.0
+306,2022,301-400,Brandeis University,us,,18.5
+307,2022,301-400,Cairo University,eg,,17.7
+308,2022,301-400,Capital Medical University,cn,,0.0
+309,2022,301-400,Catholic University of the Sacred Heart,it,,0.0
+310,2022,301-400,Charles University in Prague,cz,,0.0
+311,2022,301-400,China University of Geosciences (Wuhan),cn,,0.0
+312,2022,301-400,Peking Union Medical College,cn,,0.0
+313,2022,301-400,Dalhousie University,ca,,11.9
+314,2022,301-400,Dartmouth College,us,,16.0
+315,2022,301-400,Drexel University,us,,0.0
+316,2022,301-400,Durham University,gb,,0.0
+317,2022,301-400,East China University of Science and Technology,cn,,0.0
+318,2022,301-400,Ecole Normale Superieure - Lyon,fr,,16.0
+319,2022,301-400,Eindhoven University of Technology,nl,,0.0
+320,2022,301-400,Fuzhou University,cn,,0.0
+321,2022,301-400,Heinrich Heine University Duesseldorf,de,,10.7
+322,2022,301-400,Huazhong Agricultural University,cn,,0.0
+323,2022,301-400,Indian Institute of Science,in,,0.0
+324,2022,301-400,Indiana University-Purdue University at Indianapolis,us,,0.0
+325,2022,301-400,Institut Polytechnique de Paris,fr,,20.7
+326,2022,301-400,James Cook University,au,,0.0
+327,2022,301-400,Jinan University,cn,,0.0
+328,2022,301-400,Keio University,jp,,0.0
+329,2022,301-400,Kyushu University,jp,,0.0
+330,2022,301-400,Lancaster University,gb,,0.0
+331,2022,301-400,Lanzhou University,cn,,0.0
+332,2022,301-400,Laval University,ca,,0.0
+333,2022,301-400,Linkoping University,se,,0.0
+334,2022,301-400,Nanchang University,cn,,0.0
+335,2022,301-400,Nanjing Agricultural University,cn,,0.0
+336,2022,301-400,NanJing Tech University,cn,,0.0
+337,2022,301-400,Nanjing University of Aeronautics and Astronautics,cn,,0.0
+338,2022,301-400,Nanjing University of Science and Technology,cn,,0.0
+339,2022,301-400,National and Kapodistrian University of Athens,gr,,0.0
+340,2022,301-400,National Cheng Kung University,tw,,0.0
+341,2022,301-400,Northeastern University (Shenyang),cn,,0.0
+342,2022,301-400,Ocean University of China,cn,,0.0
+343,2022,301-400,Pohang University of Science and Technology,kr,,0.0
+344,2022,301-400,Pompeu Fabra University,es,,0.0
+345,2022,301-400,Queen's University Belfast,gb,,16.9
+346,2022,301-400,RMIT University,au,,0.0
+347,2022,301-400,Saint Petersburg State University,ru,,23.9
+348,2022,301-400,ShanghaiTech University,cn,,0.0
+349,2022,301-400,Simon Fraser University,ca,,0.0
+350,2022,301-400,Stony Brook University,us,,0.0
+351,2022,301-400,Swedish University of Agricultural Sciences,se,,0.0
+352,2022,301-400,Technical University of Berlin,de,,13.1
+353,2022,301-400,The Hong Kong University of Science and Technology,hk,,0.0
+354,2022,301-400,The University of Dundee,gb,,0.0
+355,2022,301-400,The University of Georgia,us,,0.0
+356,2022,301-400,"The University of Newcastle, Australia",au,,0.0
+357,2022,301-400,The University of Reading,gb,,0.0
+358,2022,301-400,The University of Texas at Dallas,us,,13.1
+359,2022,301-400,The University of Texas Health Science Center at Houston,us,,0.0
+360,2022,301-400,"University at Buffalo, the State University of New York",us,,0.0
+361,2022,301-400,University College Cork,ie,,0.0
+362,2022,301-400,University College Dublin,ie,,0.0
+363,2022,301-400,University of Alabama at Birmingham,us,,0.0
+364,2022,301-400,University of Bergen,no,,0.0
+365,2022,301-400,University of Bochum,de,,0.0
+366,2022,301-400,University of Campinas,br,,0.0
+367,2022,301-400,University of Central Florida,us,,0.0
+368,2022,301-400,University of Cincinnati,us,,0.0
+369,2022,301-400,University of Connecticut,us,,10.7
+370,2022,301-400,University of Duisburg-Essen,de,,0.0
+371,2022,301-400,University of Florence,it,,0.0
+372,2022,301-400,University of Hawaii at Manoa,us,,0.0
+373,2022,301-400,University of Illinois at Chicago,us,,0.0
+374,2022,301-400,University of Innsbruck,at,,0.0
+375,2022,301-400,University of Kentucky,us,,9.2
+376,2022,301-400,University of Leicester,gb,,0.0
+377,2022,301-400,University of Liege,be,,5.3
+378,2022,301-400,University of Lille,fr,,0.0
+379,2022,301-400,University of Malaya,my,,0.0
+380,2022,301-400,"University of Maryland, Baltimore",us,,0.0
+381,2022,301-400,University of Milano-Bicocca,it,,0.0
+382,2022,301-400,University of Notre Dame,us,,11.9
+383,2022,301-400,University of Oregon,us,,5.3
+384,2022,301-400,University of Otago,nz,,0.0
+385,2022,301-400,University of Saskatchewan,ca,,7.5
+386,2022,301-400,University of St Andrews,gb,,9.2
+387,2022,301-400,University of Stuttgart,de,,17.7
+388,2022,301-400,University of Surrey,gb,,0.0
+389,2022,301-400,University of Tehran,ir,,11.9
+390,2022,301-400,University of the Basque Country,es,,0.0
+391,2022,301-400,University of the Witwatersrand,za,,16.9
+392,2022,301-400,University of Toulouse 1,fr,,0.0
+393,2022,301-400,University of Ulm,de,,0.0
+394,2022,301-400,University of Victoria,ca,,0.0
+395,2022,301-400,Vienna University of Technology,at,,0.0
+396,2022,301-400,Vrije Universiteit Brussel (VUB),be,,13.1
+397,2022,301-400,Washington State University,us,,0.0
+398,2022,301-400,Western Sydney University,au,,0.0
+399,2022,301-400,Wuhan University of Technology,cn,,0.0
+400,2022,401-500,Beijing University of Technology,cn,,0.0
+401,2022,401-500,Ben-Gurion University of the Negev,il,,0.0
+402,2022,401-500,Boston College,us,,0.0
+403,2022,401-500,Brigham Young University,us,,7.5
+404,2022,401-500,Chalmers University of Technology,se,,0.0
+405,2022,401-500,Chang Gung University,tw,,0.0
+406,2022,401-500,China University of Geosciences (Beijing),cn,,0.0
+407,2022,401-500,China University of Mining and Technology - Xuzhou,cn,,0.0
+408,2022,401-500,China University of Petroleum (Huadong),cn,,0.0
+409,2022,401-500,CUNY Graduate School and University Center,us,,0.0
+410,2022,401-500,Federal University of Minas Gerais,br,,0.0
+411,2022,401-500,Federal University of Rio de Janeiro,br,,0.0
+412,2022,401-500,Federal University of Rio Grande do Sul,br,,0.0
+413,2022,401-500,Flinders University,au,,15.1
+414,2022,401-500,Florida International University,us,,0.0
+415,2022,401-500,Georgetown University,us,,0.0
+416,2022,401-500,Guangdong University of Technology,cn,,0.0
+417,2022,401-500,Hannover Medical School,de,,0.0
+418,2022,401-500,Hiroshima University,jp,,0.0
+419,2022,401-500,Humanitas University,it,,0.0
+420,2022,401-500,Istanbul University,tr,,17.7
+421,2022,401-500,Jagiellonian University,pl,,9.2
+422,2022,401-500,Jiangnan University,cn,,0.0
+423,2022,401-500,King Fahd University of Petroleum & Minerals,sa,,0.0
+424,2022,401-500,Kobe University,jp,,14.1
+425,2022,401-500,Kyung Hee University,kr,,0.0
+426,2022,401-500,Kyungpook National University,kr,,0.0
+427,2022,401-500,Louisiana State University - Baton Rouge,us,,0.0
+428,2022,401-500,Masaryk University,cz,,0.0
+429,2022,401-500,Medical University of Innsbruck,at,,0.0
+430,2022,401-500,Medical University of South Carolina,us,,0.0
+431,2022,401-500,Murdoch University,au,,0.0
+432,2022,401-500,Nanjing University of Information Science and Technology,cn,,0.0
+433,2022,401-500,National Tsing Hua University,tw,,11.9
+434,2022,401-500,National University of Malaysia,my,,0.0
+435,2022,401-500,National Yang Ming Chiao Tung University,tw,,0.0
+436,2022,401-500,Northwest A&F University,cn,,0.0
+437,2022,401-500,Okayama University,jp,,0.0
+438,2022,401-500,Polytechnic University of Valencia,es,,0.0
+439,2022,401-500,Qingdao University,cn,,0.0
+440,2022,401-500,Rensselaer Polytechnic Institute,us,,11.9
+441,2022,401-500,Sejong University,kr,,0.0
+442,2022,401-500,Shandong University of Science and Technology,cn,,0.0
+443,2022,401-500,Southern Medical University,cn,,0.0
+444,2022,401-500,Stellenbosch University,za,,0.0
+445,2022,401-500,Stockholm School of Economics,se,,0.0
+446,2022,401-500,Taif University,sa,,0.0
+447,2022,401-500,Tampere University,fi,,0.0
+448,2022,401-500,Technical University Darmstadt,de,,13.1
+449,2022,401-500,Tehran University of Medical Sciences,ir,,0.0
+450,2022,401-500,Temple University,us,,0.0
+451,2022,401-500,Texas Tech University,us,,0.0
+452,2022,401-500,The City College of New York,us,,27.7
+453,2022,401-500,The University of Texas at San Antonio,us,,0.0
+454,2022,401-500,The University of Texas Health Science Center at San Antonio,us,,0.0
+455,2022,401-500,The University of Texas Medical Branch at Galveston,us,,0.0
+456,2022,401-500,UNESP,br,,0.0
+457,2022,401-500,University of Aveiro,pt,,0.0
+458,2022,401-500,University of Bari,it,,0.0
+459,2022,401-500,University of Bath,gb,,0.0
+460,2022,401-500,University of Belgrade,rs,,0.0
+461,2022,401-500,"University of California, Merced",us,,0.0
+462,2022,401-500,University of Canterbury,nz,,0.0
+463,2022,401-500,University of Chile,cl,,5.3
+464,2022,401-500,University of Essex,gb,,18.5
+465,2022,401-500,University of Guelph,ca,,0.0
+466,2022,401-500,University of Jena,de,,0.0
+467,2022,401-500,University of Johannesburg,za,,0.0
+468,2022,401-500,University of Kent,gb,,19.2
+469,2022,401-500,University of Ljubljana,si,,0.0
+470,2022,401-500,University of Macau,mo,,0.0
+471,2022,401-500,University of Maine,us,,0.0
+472,2022,401-500,University of Marburg,de,,7.5
+473,2022,401-500,University of Minho,pt,,0.0
+474,2022,401-500,"University of Natural Resources and Life Sciences, Vienna",at,,0.0
+475,2022,401-500,University of North Texas,us,,0.0
+476,2022,401-500,University of Oulu,fi,,10.7
+477,2022,401-500,University of Pavia,it,,0.0
+478,2022,401-500,University of Perugia,it,,0.0
+479,2022,401-500,University of Potsdam,de,,0.0
+480,2022,401-500,University of Pretoria,za,,0.0
+481,2022,401-500,University of Regensburg,de,,0.0
+482,2022,401-500,University of Santiago Compostela,es,,0.0
+483,2022,401-500,University of Seville,es,,0.0
+484,2022,401-500,University of South Carolina - Columbia,us,,0.0
+485,2022,401-500,University of Strathclyde,gb,,0.0
+486,2022,401-500,University of Trento,it,,0.0
+487,2022,401-500,University of Turku,fi,,0.0
+488,2022,401-500,University of Twente,nl,,0.0
+489,2022,401-500,University of Vermont,us,,13.1
+490,2022,401-500,University of Warsaw,pl,,19.2
+491,2022,401-500,University of York,gb,,0.0
+492,2022,401-500,University of Zagreb,hr,,0.0
+493,2022,401-500,Utah State University,us,,13.1
+494,2022,401-500,Victoria University of Wellington,nz,,10.7
+495,2022,401-500,Vita-Salute San Raffaele University,it,,0.0
+496,2022,401-500,West Virginia University,us,,0.0
+497,2022,401-500,Yangzhou University,cn,,0.0
+498,2022,401-500,York University,ca,,0.0
+499,2022,401-500,Zhejiang University of Technology,cn,,0.0
+500,2022,501-600,Alexandria University,eg,,11.9
+501,2022,501-600,Aristotle University of Thessaloniki,gr,,0.0
+502,2022,501-600,Asia University,tw,,0.0
+503,2022,501-600,Auburn University,us,,0.0
+504,2022,501-600,Australian Catholic University,au,,0.0
+505,2022,501-600,Baylor University,us,,0.0
+506,2022,501-600,Beijing Jiaotong University,cn,,0.0
+507,2022,501-600,Brescia University,it,,0.0
+508,2022,501-600,Carleton University,ca,,0.0
+509,2022,501-600,China University of Petroleum - Beijing,cn,,0.0
+510,2022,501-600,Chonnam National University,kr,,0.0
+511,2022,501-600,Chulalongkorn University,th,,0.0
+512,2022,501-600,COMSATS University Islamabad,pk,,0.0
+513,2022,501-600,Concordia University,ca,,0.0
+514,2022,501-600,Duke-NUS Medical School,sg,,0.0
+515,2022,501-600,Georgia State University,us,,0.0
+516,2022,501-600,Guangxi University,cn,,0.0
+517,2022,501-600,Guangzhou Medical University,cn,,0.0
+518,2022,501-600,Guangzhou University,cn,,0.0
+519,2022,501-600,Harbin Engineering University,cn,,0.0
+520,2022,501-600,Hefei University of Technology,cn,,0.0
+521,2022,501-600,Henan University,cn,,0.0
+522,2022,501-600,Hohai University,cn,,0.0
+523,2022,501-600,Iowa State University,us,,0.0
+524,2022,501-600,Kansas State University,us,,0.0
+525,2022,501-600,Leibniz University Hannover,de,,0.0
+526,2022,501-600,Macau University of Science and Technology,mo,,0.0
+527,2022,501-600,Medical University of Graz,at,,0.0
+528,2022,501-600,Mississippi State University,us,,0.0
+529,2022,501-600,Moscow Institute of Physics and Technology,ru,,20.7
+530,2022,501-600,Nanjing Normal University,cn,,0.0
+531,2022,501-600,"National University of Ireland, Galway",ie,,0.0
+532,2022,501-600,Northern Arizona University,us,,0.0
+533,2022,501-600,Northwest University,cn,,0.0
+534,2022,501-600,NOVA University Lisbon,pt,,0.0
+535,2022,501-600,Oklahoma State University,us,,0.0
+536,2022,501-600,Pontifical Catholic University of Chile,cl,,0.0
+537,2022,501-600,Pusan National University,kr,,0.0
+538,2022,501-600,Qatar University,qa,,0.0
+539,2022,501-600,Renmin University of China,cn,,0.0
+540,2022,501-600,Rush University,us,,0.0
+541,2022,501-600,Saarland University,de,,0.0
+542,2022,501-600,San Diego State University,us,,0.0
+543,2022,501-600,Scuola Normale Superiore - Pisa,it,,16.0
+544,2022,501-600,South China Agricultural University,cn,,0.0
+545,2022,501-600,South China Normal University,cn,,0.0
+546,2022,501-600,Southwest Jiaotong University,cn,,0.0
+547,2022,501-600,Southwest University,cn,,0.0
+548,2022,501-600,Southwestern University of Finance and Economics,cn,,0.0
+549,2022,501-600,"St George's, University of London",gb,,0.0
+550,2022,501-600,Swansea University,gb,,0.0
+551,2022,501-600,Tarbiat Modares University,ir,,0.0
+552,2022,501-600,The University of New Mexico - Albuquerque,us,,0.0
+553,2022,501-600,Tianjin Medical University,cn,,0.0
+554,2022,501-600,Umea University,se,,0.0
+555,2022,501-600,Università Della Svizzera Italiana,ch,,0.0
+556,2022,501-600,University of Alaska - Fairbanks,us,,0.0
+557,2022,501-600,University of Arkansas at Fayetteville,us,,0.0
+558,2022,501-600,University of Bremen,de,,0.0
+559,2022,501-600,University of Burgundy,fr,,0.0
+560,2022,501-600,University of Catania,it,,0.0
+561,2022,501-600,University of Clermont Auvergne,fr,,0.0
+562,2022,501-600,University of Coimbra,pt,,0.0
+563,2022,501-600,University of Côte d'Azur,fr,,0.0
+564,2022,501-600,University of Cyprus,cy,,0.0
+565,2022,501-600,University of Fribourg,ch,,0.0
+566,2022,501-600,University of Genoa,it,,0.0
+567,2022,501-600,University of Giessen,de,,0.0
+568,2022,501-600,University of Haifa,il,,0.0
+569,2022,501-600,University of Konstanz,de,,0.0
+570,2022,501-600,University of KwaZulu-Natal,za,,0.0
+571,2022,501-600,University of Modena and Reggio Emilia,it,,0.0
+572,2022,501-600,University of Navarra,es,,0.0
+573,2022,501-600,University of Nevada - Reno,us,,0.0
+574,2022,501-600,University of New Hampshire,us,,0.0
+575,2022,501-600,University of Oklahoma - Norman,us,,0.0
+576,2022,501-600,University of Palermo,it,,0.0
+577,2022,501-600,University of Parma,it,,0.0
+578,2022,501-600,University of Plymouth,gb,,0.0
+579,2022,501-600,University of Roma - Tor Vergata,it,,0.0
+580,2022,501-600,University of Rostock,de,,0.0
+581,2022,501-600,University of Salamanca,es,,0.0
+582,2022,501-600,"University of Science, Malaysia",my,,0.0
+583,2022,501-600,University of Sherbrooke,ca,,0.0
+584,2022,501-600,University of South Australia,au,,0.0
+585,2022,501-600,University of Southern Queensland,au,,0.0
+586,2022,501-600,University of Tartu,ee,,0.0
+587,2022,501-600,University of Tromso,no,,0.0
+588,2022,501-600,University of Ulsan,kr,,0.0
+589,2022,501-600,University of Verona,it,,0.0
+590,2022,501-600,University of Vigo,es,,0.0
+591,2022,501-600,University of Wyoming,us,,0.0
+592,2022,501-600,University of Zaragoza,es,,0.0
+593,2022,501-600,Wake Forest University,us,,0.0
+594,2022,501-600,Wayne State University,us,,0.0
+595,2022,501-600,Wenzhou Medical University,cn,,0.0
+596,2022,501-600,Xidian University,cn,,0.0
+597,2022,501-600,Yeungnam University,kr,,0.0
+598,2022,501-600,Yunnan University,cn,,0.0
+599,2022,501-600,Zhejiang Normal University,cn,,0.0
+600,2022,601-700,AGH University of Science and Technology,pl,,0.0
+601,2022,601-700,Amirkabir University of Technology,ir,,0.0
+602,2022,601-700,Anhui Medical University,cn,,0.0
+603,2022,601-700,Anhui University,cn,,0.0
+604,2022,601-700,Bangor University,gb,,10.7
+605,2022,601-700,Beijing University of Posts and Telecommunications,cn,,0.0
+606,2022,601-700,Binghamton University,us,,0.0
+607,2022,601-700,Brunel University,gb,,0.0
+608,2022,601-700,Central China Normal University,cn,,0.0
+609,2022,601-700,Chang'an University,cn,,0.0
+610,2022,601-700,Chiba University,jp,,0.0
+611,2022,601-700,China Medical University (Shenyang),cn,,0.0
+612,2022,601-700,Clemson University,us,,0.0
+613,2022,601-700,Copenhagen Business School,dk,,0.0
+614,2022,601-700,Edith Cowan University,au,,0.0
+615,2022,601-700,Eotvos Lorand University,hu,,10.7
+616,2022,601-700,Ewha Womans University,kr,,0.0
+617,2022,601-700,Federal University of Parana,br,,0.0
+618,2022,601-700,Federal University of Sao Carlos,br,,0.0
+619,2022,601-700,Federal University of Sao Paulo,br,,0.0
+620,2022,601-700,Federal University of Viçosa,br,,0.0
+621,2022,601-700,Guizhou University,cn,,0.0
+622,2022,601-700,Hacettepe University,tr,,0.0
+623,2022,601-700,Hangzhou Dianzi University,cn,,0.0
+624,2022,601-700,Hasselt University,be,,0.0
+625,2022,601-700,Hong Kong Baptist University,hk,,0.0
+626,2022,601-700,HSE University,ru,,0.0
+627,2022,601-700,Hunan Normal University,cn,,0.0
+628,2022,601-700,INHA University,kr,,0.0
+629,2022,601-700,Juntendo University,jp,,0.0
+630,2022,601-700,Kent State University,us,,0.0
+631,2022,601-700,King Khalid University,sa,,0.0
+632,2022,601-700,Kitasato University,jp,,0.0
+633,2022,601-700,Kunming University of Science and Technology,cn,,0.0
+634,2022,601-700,Liverpool John Moores University,gb,,0.0
+635,2022,601-700,Mahidol University,th,,0.0
+636,2022,601-700,Mansoura University,eg,,0.0
+637,2022,601-700,Marche Polytechnic University,it,,0.0
+638,2022,601-700,Massey University,nz,,0.0
+639,2022,601-700,Nanjing Forestry University,cn,,0.0
+640,2022,601-700,Nanjing University of Posts and Telecommunications,cn,,0.0
+641,2022,601-700,National Polytechnic Institute,mx,,0.0
+642,2022,601-700,National Sun Yat-Sen University,tw,,0.0
+643,2022,601-700,National University of Defense Technology,cn,,0.0
+644,2022,601-700,Naval Medical University,cn,,0.0
+645,2022,601-700,Ningbo University,cn,,0.0
+646,2022,601-700,Northumbria University,gb,,0.0
+647,2022,601-700,North-West University,za,,10.7
+648,2022,601-700,Nottingham Trent University,gb,,0.0
+649,2022,601-700,Orebro University,se,,0.0
+650,2022,601-700,Polytechnic University of Madrid,es,,0.0
+651,2022,601-700,Polytechnic University of Turin,it,,0.0
+652,2022,601-700,"Royal Holloway, University of London",gb,,0.0
+653,2022,601-700,Saint Louis University,us,,0.0
+654,2022,601-700,Sechenov University,ru,,0.0
+655,2022,601-700,Semmelweis University,hu,,0.0
+656,2022,601-700,Shaanxi Normal University,cn,,0.0
+657,2022,601-700,Shandong Normal University,cn,,0.0
+658,2022,601-700,Shanxi University,cn,,0.0
+659,2022,601-700,Sharif University of Technology,ir,,15.1
+660,2022,601-700,State University of New York Health Science Center at Brooklyn,us,,0.0
+661,2022,601-700,Taipei Medical University,tw,,0.0
+662,2022,601-700,"The Chinese University of Hong Kong, Shenzhen",cn,,0.0
+663,2022,601-700,The Open University,gb,,0.0
+664,2022,601-700,The University of Alabama - Tuscaloosa,us,,0.0
+665,2022,601-700,The University of Texas at Arlington,us,,0.0
+666,2022,601-700,Tilburg University,nl,,0.0
+667,2022,601-700,Tokyo Medical and Dental University,jp,,0.0
+668,2022,601-700,Tokyo University of Science,jp,,11.9
+669,2022,601-700,Ton Duc Thang University,vn,,0.0
+670,2022,601-700,Tulane University,us,,0.0
+671,2022,601-700,Universidad Pablo de Olavide,es,,0.0
+672,2022,601-700,Universitat Jaume I,es,,0.0
+673,2022,601-700,University at Albany (State University of New York),us,,0.0
+674,2022,601-700,University of Alicante,es,,0.0
+675,2022,601-700,University of Crete,gr,,0.0
+676,2022,601-700,University of Delhi,in,,0.0
+677,2022,601-700,University of Eastern Finland,fi,,0.0
+678,2022,601-700,University of Extremadura,es,,0.0
+679,2022,601-700,University of Ferrara,it,,0.0
+680,2022,601-700,University of Graz,at,,13.1
+681,2022,601-700,University of Greenwich,gb,,16.9
+682,2022,601-700,University of Halle-Wittenberg,de,,0.0
+683,2022,601-700,University of Health Sciences Turkey,tr,,0.0
+684,2022,601-700,University of Iceland,is,,0.0
+685,2022,601-700,University of Idaho,us,,0.0
+686,2022,601-700,"University of Maryland, Baltimore County",us,,0.0
+687,2022,601-700,University of Nantes,fr,,0.0
+688,2022,601-700,University of Oldenburg,de,,0.0
+689,2022,601-700,University of Rennes 1,fr,,0.0
+690,2022,601-700,University of Salerno,it,,0.0
+691,2022,601-700,University of Siena,it,,0.0
+692,2022,601-700,University of the Sunshine Coast,au,,0.0
+693,2022,601-700,University of Trieste,it,,0.0
+694,2022,601-700,University of Versailles Saint-Quentin-en-Yvelines,fr,,0.0
+695,2022,601-700,University Rovira i Virgili,es,,0.0
+696,2022,601-700,Vellore Institute of Technology,in,,0.0
+697,2022,601-700,Waseda University,jp,,0.0
+698,2022,601-700,Westlake University,cn,,0.0
+699,2022,601-700,Xi'an University of Technology,cn,,0.0
+700,2022,701-800,Addis Ababa University,et,,16.9
+701,2022,701-800,Ain Shams University,eg,,0.0
+702,2022,701-800,American University of Beirut,lb,,0.0
+703,2022,701-800,Army Medical University,cn,,0.0
+704,2022,701-800,AUT University,nz,,0.0
+705,2022,701-800,Bielefeld University,de,,0.0
+706,2022,701-800,Catholic University of Korea,kr,,0.0
+707,2022,701-800,Changsha University of Science and Technology,cn,,0.0
+708,2022,701-800,Chiang Mai University,th,,0.0
+709,2022,701-800,China University of Mining and Technology - Beijing,cn,,0.0
+710,2022,701-800,Chongqing Medical University,cn,,0.0
+711,2022,701-800,Chung-Ang University,kr,,0.0
+712,2022,701-800,Chungnam National University,kr,,0.0
+713,2022,701-800,Colorado School of Mines,us,,0.0
+714,2022,701-800,Comenius University in Bratislava,sk,,0.0
+715,2022,701-800,Dalian Maritime University,cn,,0.0
+716,2022,701-800,Donghua University,cn,,0.0
+717,2022,701-800,Federal University of Santa Catarina,br,,0.0
+718,2022,701-800,Fluminense Federal University,br,,0.0
+719,2022,701-800,Fujian Agriculture and Forestry University,cn,,0.0
+720,2022,701-800,Fujian Medical University,cn,,0.0
+721,2022,701-800,Fujian Normal University,cn,,0.0
+722,2022,701-800,Harbin Medical University,cn,,0.0
+723,2022,701-800,Indian Institute of Technology Delhi,in,,0.0
+724,2022,701-800,Indian Institute of Technology Madras,in,,0.0
+725,2022,701-800,Indian Institute of Technology Roorkee,in,,0.0
+726,2022,701-800,INSA Toulouse,fr,,0.0
+727,2022,701-800,Jawaharlal Nehru University,in,,14.1
+728,2022,701-800,Jeonbuk National University,kr,,0.0
+729,2022,701-800,Kanazawa University,jp,,0.0
+730,2022,701-800,Kaohsiung Medical University,tw,,0.0
+731,2022,701-800,Keele University,gb,,0.0
+732,2022,701-800,Kindai University,jp,,0.0
+733,2022,701-800,Konkuk University,kr,,0.0
+734,2022,701-800,Lincoln University,nz,,0.0
+735,2022,701-800,Liverpool School of Tropical Medicine,gb,,0.0
+736,2022,701-800,Loughborough University,gb,,0.0
+737,2022,701-800,Medical College of Wisconsin,us,,0.0
+738,2022,701-800,Memorial University of Newfoundland,ca,,0.0
+739,2022,701-800,New Jersey Institute of Technology,us,,0.0
+740,2022,701-800,North China Electric Power University,cn,,0.0
+741,2022,701-800,Northeast Agricultural University - China,cn,,0.0
+742,2022,701-800,Novosibirsk State University,ru,,13.1
+743,2022,701-800,Ohio University,us,,13.1
+744,2022,701-800,Old Dominion University,us,,0.0
+745,2022,701-800,Palacký University Olomouc,cz,,0.0
+746,2022,701-800,Polytechnic University of Catalonia,es,,0.0
+747,2022,701-800,Qufu Normal University,cn,,0.0
+748,2022,701-800,School for Advanced Studies in the Social Sciences,fr,,15.1
+749,2022,701-800,Shahid Beheshti University of Medical Sciences,ir,,0.0
+750,2022,701-800,Shandong Agricultural University,cn,,0.0
+751,2022,701-800,Shanghai University of Finance and Economics,cn,,0.0
+752,2022,701-800,Shinshu University,jp,,0.0
+753,2022,701-800,Skolkovo Institute of Science and Technology,ru,,0.0
+754,2022,701-800,Southern Methodist University,us,,10.7
+755,2022,701-800,Swarthmore College,us,,23.9
+756,2022,701-800,Syracuse University,us,,0.0
+757,2022,701-800,Taiyuan University of Technology,cn,,0.0
+758,2022,701-800,Technical University of Braunschweig,de,,11.9
+759,2022,701-800,The University of Waikato,nz,,0.0
+760,2022,701-800,Thomas Jefferson University,us,,0.0
+761,2022,701-800,Tomsk State University,ru,,0.0
+762,2022,701-800,Universitat de Lleida,es,,0.0
+763,2022,701-800,Universiti Teknologi Malaysia,my,,0.0
+764,2022,701-800,University of Agriculture Faisalabad,pk,,0.0
+765,2022,701-800,University of Arkansas for Medical Sciences,us,,0.0
+766,2022,701-800,University of Bayreuth,de,,0.0
+767,2022,701-800,University of Brasília,br,,0.0
+768,2022,701-800,University of Campania Luigi Vanvitelli,it,,0.0
+769,2022,701-800,University of Castilla–La Mancha,es,,0.0
+770,2022,701-800,University of Engineering and Technology (UET),pk,,0.0
+771,2022,701-800,University of Hull,gb,,14.1
+772,2022,701-800,University of Jaen,es,,0.0
+773,2022,701-800,University of Jordan,jo,,0.0
+774,2022,701-800,University of Jyvaskyla,fi,,0.0
+775,2022,701-800,University of La Laguna,es,,0.0
+776,2022,701-800,University of Limerick,ie,,0.0
+777,2022,701-800,University of Louisville,us,,0.0
+778,2022,701-800,University of Luebeck,de,,0.0
+779,2022,701-800,University of Luxembourg,lu,,0.0
+780,2022,701-800,University of Malaga,es,,0.0
+781,2022,701-800,University of Murcia,es,,0.0
+782,2022,701-800,University of Nebraska Medical Center,us,,0.0
+783,2022,701-800,University of Nevada-Las Vegas,us,,0.0
+784,2022,701-800,University of Oviedo,es,,0.0
+785,2022,701-800,University of Quebec Montreal,ca,,0.0
+786,2022,701-800,University of Salzburg,at,,0.0
+787,2022,701-800,University of Shanghai for Science and Technology,cn,,0.0
+788,2022,701-800,University of Szeged,hu,,0.0
+789,2022,701-800,University of Tennessee Health Science Center,us,,0.0
+790,2022,701-800,University of Texas at El Paso,us,,0.0
+791,2022,701-800,University of the Balearic Islands,es,,0.0
+792,2022,701-800,University of the Punjab,pk,,13.1
+793,2022,701-800,University of Toledo,us,,0.0
+794,2022,701-800,University of Udine,it,,0.0
+795,2022,701-800,University of Wisconsin-Milwaukee,us,,9.2
+796,2022,701-800,University Putra Malaysia,my,,0.0
+797,2022,701-800,Ural Federal University,ru,,0.0
+798,2022,701-800,Vilnius University,lt,,7.5
+799,2022,701-800,Wenzhou University,cn,,0.0
+800,2022,801-900,Air Force Medical University,cn,,0.0
+801,2022,801-900,Ajou University,kr,,0.0
+802,2022,801-900,Al-Azhar University,eg,,0.0
+803,2022,801-900,Anhui University of Technology,cn,,0.0
+804,2022,801-900,Ankara University,tr,,0.0
+805,2022,801-900,Babeș-Bolyai University,ro,,0.0
+806,2022,801-900,Beijing Forestry University,cn,,0.0
+807,2022,801-900,Bournemouth University,gb,,0.0
+808,2022,801-900,Changzhou University,cn,,0.0
+809,2022,801-900,Charles Darwin University,au,,0.0
+810,2022,801-900,Cranfield University,gb,,0.0
+811,2022,801-900,Czech Technical University in Prague,cz,,5.3
+812,2022,801-900,Czech University of Life Sciences Prague,cz,,0.0
+813,2022,801-900,Dokuz Eylul University,tr,,0.0
+814,2022,801-900,Dongguk University,kr,,0.0
+815,2022,801-900,Dublin City University,ie,,0.0
+816,2022,801-900,Federal University of Ceara,br,,0.0
+817,2022,801-900,Federal University of Pernambuco,br,,0.0
+818,2022,801-900,Federal University of Santa Maria,br,,0.0
+819,2022,801-900,Fordham University,us,,0.0
+820,2022,801-900,Free University of Bozen-Bolzano,it,,0.0
+821,2022,801-900,Gachon University,kr,,0.0
+822,2022,801-900,Gdansk University of Technology,pl,,0.0
+823,2022,801-900,Graz University of Technology,at,,0.0
+824,2022,801-900,Gwangju Institute of Science and Technology,kr,,0.0
+825,2022,801-900,Gyeongsang National University,kr,,0.0
+826,2022,801-900,Hainan University,cn,,0.0
+827,2022,801-900,Hebei University of Technology,cn,,0.0
+828,2022,801-900,Heriot-Watt University,gb,,0.0
+829,2022,801-900,Indian Institute of Technology Kharagpur,in,,0.0
+830,2022,801-900,Iran University of Science & Technology,ir,,0.0
+831,2022,801-900,Johannes Kepler University Linz,at,,0.0
+832,2022,801-900,Kangwon National University,kr,,0.0
+833,2022,801-900,Khalifa University,ae,,0.0
+834,2022,801-900,Lehigh University,us,,0.0
+835,2022,801-900,Linnaeus University,se,,0.0
+836,2022,801-900,Manchester Metropolitan University,gb,,0.0
+837,2022,801-900,Mashhad University Medical Science,ir,,0.0
+838,2022,801-900,Michigan Technological University,us,,7.5
+839,2022,801-900,Miguel Hernandez University of Elche,es,,0.0
+840,2022,801-900,Monterrey Institute of Technology and Higher Education,mx,,0.0
+841,2022,801-900,Montpellier Business School,fr,,0.0
+842,2022,801-900,Nagasaki University,jp,,10.7
+843,2022,801-900,Nanjing University of Chinese Medicine,cn,,0.0
+844,2022,801-900,Nantong University,cn,,0.0
+845,2022,801-900,National Central University,tw,,0.0
+846,2022,801-900,National Chung Hsing University,tw,,0.0
+847,2022,801-900,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),ru,,9.2
+848,2022,801-900,National Taiwan University of Science and Technology,tw,,0.0
+849,2022,801-900,National University of Colombia,co,,0.0
+850,2022,801-900,National Yunlin University of Science and Technology,tw,,0.0
+851,2022,801-900,Norwegian University of Life Sciences,no,,0.0
+852,2022,801-900,Okinawa Institute of Science and Technology Graduate University,jp,,0.0
+853,2022,801-900,Osaka City University,jp,,15.1
+854,2022,801-900,Prince of Songkla University,th,,0.0
+855,2022,801-900,Prince Sattam Bin Abdulaziz University,sa,,0.0
+856,2022,801-900,Royal College of Surgeons - Ireland,ie,,0.0
+857,2022,801-900,Shandong First Medical University,cn,,0.0
+858,2022,801-900,Shantou University,cn,,0.0
+859,2022,801-900,Sichuan Agricultural University,cn,,0.0
+860,2022,801-900,Southern Cross University,au,,0.0
+861,2022,801-900,Southwest University of Science and Technology,cn,,0.0
+862,2022,801-900,Sultan Qaboos University,om,,0.0
+863,2022,801-900,The Education University of Hong Kong,hk,,0.0
+864,2022,801-900,The Royal Veterinary College,gb,,0.0
+865,2022,801-900,The University of Tokushima,jp,,13.1
+866,2022,801-900,Uniformed Services University of the Health Sciences - USA,us,,0.0
+867,2022,801-900,Universidade Federal de Pelotas,br,,0.0
+868,2022,801-900,University Paris Est Creteil,fr,,0.0
+869,2022,801-900,University of Alcalá,es,,0.0
+870,2022,801-900,University of Cagliari,it,,0.0
+871,2022,801-900,University of Calabria,it,,0.0
+872,2022,801-900,University of Canberra,au,,0.0
+873,2022,801-900,University of Chieti-Pescara,it,,0.0
+874,2022,801-900,University of Cordoba,es,,0.0
+875,2022,801-900,University of Girona,es,,0.0
+876,2022,801-900,University of Ibadan,ng,,0.0
+877,2022,801-900,University of Jinan,cn,,0.0
+878,2022,801-900,University of Kassel,de,,0.0
+879,2022,801-900,University of Lahore,pk,,0.0
+880,2022,801-900,University of L'Aquila,it,,0.0
+881,2022,801-900,University of Magdeburg,de,,0.0
+882,2022,801-900,University of Messina,it,,0.0
+883,2022,801-900,University of Mississippi,us,,0.0
+884,2022,801-900,University of Missouri-Kansas City,us,,0.0
+885,2022,801-900,University of Mons,be,,0.0
+886,2022,801-900,University of New England,au,,0.0
+887,2022,801-900,University of North Carolina at Greensboro,us,,0.0
+888,2022,801-900,University of Oklahoma - Oklahoma City,us,,0.0
+889,2022,801-900,University of Portsmouth,gb,,0.0
+890,2022,801-900,University of Savoy,fr,,0.0
+891,2022,801-900,University of Stirling,gb,,0.0
+892,2022,801-900,University of Thessaly,gr,,0.0
+893,2022,801-900,University of Veterinary Medicine Vienna,at,,0.0
+894,2022,801-900,Warsaw University of Life Sciences,pl,,0.0
+895,2022,801-900,Wroclaw Medical University,pl,,0.0
+896,2022,801-900,Yanshan University,cn,,0.0
+897,2022,801-900,Yokohama City University,jp,,0.0
+898,2022,801-900,Zagazig University,eg,,0.0
+899,2022,801-900,Zhejiang Sci-Tech University,cn,,0.0
+900,2022,901-1000,Adam Mickiewicz University,pl,,0.0
+901,2022,901-1000,Aligarh Muslim University,in,,0.0
+902,2022,901-1000,Amherst College,us,,25.0
+903,2022,901-1000,Amity University,in,,0.0
+904,2022,901-1000,Bocconi University,it,,0.0
+905,2022,901-1000,Brno University of Technology,cz,,0.0
+906,2022,901-1000,Budapest University of Technology and Economics,hu,,9.2
+907,2022,901-1000,Carlos III University of Madrid,es,,0.0
+908,2022,901-1000,China Pharmaceutical University,cn,,0.0
+909,2022,901-1000,China West Normal University,cn,,0.0
+910,2022,901-1000,Chungbuk National University,kr,,0.0
+911,2022,901-1000,Duy Tan University,vn,,0.0
+912,2022,901-1000,Ege University,tr,,0.0
+913,2022,901-1000,Erciyes University,tr,,0.0
+914,2022,901-1000,Federal University of Bahia,br,,0.0
+915,2022,901-1000,Federal University of Goiás,br,,0.0
+916,2022,901-1000,Federal University of Rio Grande do Norte,br,,0.0
+917,2022,901-1000,Ferdowsi University of Mashhad,ir,,0.0
+918,2022,901-1000,Fırat University,tr,,0.0
+919,2022,901-1000,Florida Atlantic University,us,,0.0
+920,2022,901-1000,Foshan University,cn,,0.0
+921,2022,901-1000,Gazi University,tr,,0.0
+922,2022,901-1000,Guangdong University of Foreign Studies,cn,,0.0
+923,2022,901-1000,Hallym University,kr,,0.0
+924,2022,901-1000,Hebei Medical University,cn,,0.0
+925,2022,901-1000,Homi Bhabha National Institute,in,,0.0
+926,2022,901-1000,Huaqiao University,cn,,0.0
+927,2022,901-1000,Hunan Agricultural University,cn,,0.0
+928,2022,901-1000,Hunan University of Technology,cn,,0.0
+929,2022,901-1000,Illinois Institute of Technology,us,,0.0
+930,2022,901-1000,International School for Advanced Studies,it,,0.0
+931,2022,901-1000,Iran University of Medical Sciences,ir,,0.0
+932,2022,901-1000,Istanbul Technical University,tr,,0.0
+933,2022,901-1000,Kafrelsheikh University,eg,,0.0
+934,2022,901-1000,King Juan Carlos University,es,,0.0
+935,2022,901-1000,Kumamoto University,jp,,0.0
+936,2022,901-1000,Liaocheng University,cn,,0.0
+937,2022,901-1000,Loyola University Chicago,us,,0.0
+938,2022,901-1000,Manipal University,in,,0.0
+939,2022,901-1000,Medical University of Warsaw,pl,,0.0
+940,2022,901-1000,Metropolitan Autonomous University,mx,,0.0
+941,2022,901-1000,Middle East Technical University,tr,,0.0
+942,2022,901-1000,Missouri University of Science and Technology,us,,0.0
+943,2022,901-1000,Nara Institute of Science and Technology,jp,,0.0
+944,2022,901-1000,National University of La Plata,ar,,0.0
+945,2022,901-1000,National University of Sciences and Technology Pakistan,pk,,0.0
+946,2022,901-1000,NHH - Norwegian School of Economics,no,,11.9
+947,2022,901-1000,Nicolaus Copernicus University,pl,,0.0
+948,2022,901-1000,Northeast Normal University,cn,,0.0
+949,2022,901-1000,Ontario Tech University,ca,,0.0
+950,2022,901-1000,Portland State University,us,,0.0
+951,2022,901-1000,Qilu University of Technology,cn,,0.0
+952,2022,901-1000,Qingdao University of Science and Technology,cn,,0.0
+953,2022,901-1000,Quaid-i-Azam University,pk,,0.0
+954,2022,901-1000,Ryerson University,ca,,0.0
+955,2022,901-1000,Saitama University,jp,,14.1
+956,2022,901-1000,Shanghai Normal University,cn,,0.0
+957,2022,901-1000,South Dakota State University,us,,5.3
+958,2022,901-1000,Southwest Petroleum University,cn,,0.0
+959,2022,901-1000,SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,in,,0.0
+960,2022,901-1000,SUNY College of Environmental Science and Forestry,us,,0.0
+961,2022,901-1000,SUNY Upstate Medical University,us,,0.0
+962,2022,901-1000,Technical University of Dortmund,de,,0.0
+963,2022,901-1000,Technical University of Ostrava,cz,,0.0
+964,2022,901-1000,The Graduate University for Advanced Studies,jp,,0.0
+965,2022,901-1000,Tianjin University of Technology,cn,,0.0
+966,2022,901-1000,Tokyo University of Agriculture and Technology,jp,,0.0
+967,2022,901-1000,Tuscia University,it,,0.0
+968,2022,901-1000,Universidad Andrés Bello,cl,,0.0
+969,2022,901-1000,Universidad de Cadiz,es,,0.0
+970,2022,901-1000,Universidad de Las Palmas de Gran Canaria,es,,0.0
+971,2022,901-1000,Universidade Federal de Mato Grosso do Sul,br,,0.0
+972,2022,901-1000,University of Arkansas at Little Rock,us,,0.0
+973,2022,901-1000,University of Calcutta,in,,17.7
+974,2022,901-1000,University of Cantabria,es,,0.0
+975,2022,901-1000,University of Concepcion,cl,,0.0
+976,2022,901-1000,University of Hertfordshire,gb,,0.0
+977,2022,901-1000,University of Insubria,it,,0.0
+978,2022,901-1000,University of Klagenfurt,at,,0.0
+979,2022,901-1000,University of Lincoln,gb,,0.0
+980,2022,901-1000,University of Los Andes (Colombia),co,,0.0
+981,2022,901-1000,University of Massachusetts Boston,us,,0.0
+982,2022,901-1000,University of Massachusetts Lowell,us,,0.0
+983,2022,901-1000,University of Montana - Missoula,us,,0.0
+984,2022,901-1000,University of Novi Sad,rs,,0.0
+985,2022,901-1000,University of Rhode Island,us,,0.0
+986,2022,901-1000,University of Salento,it,,0.0
+987,2022,901-1000,University of South Africa,za,,14.1
+988,2022,901-1000,University of South Bohemia,cz,,0.0
+989,2022,901-1000,University of Tabriz,ir,,0.0
+990,2022,901-1000,University of The Free State,za,,0.0
+991,2022,901-1000,University of Tours,fr,,0.0
+992,2022,901-1000,University of Ulster,gb,,0.0
+993,2022,901-1000,University of Urbino,it,,0.0
+994,2022,901-1000,University of Valladolid,es,,0.0
+995,2022,901-1000,University of Wuppertal,de,,0.0
+996,2022,901-1000,Warsaw University of Technology,pl,,0.0
+997,2022,901-1000,Western Norway University of Applied Sciences,no,,0.0
+998,2022,901-1000,Wroclaw University of Science and Technology,pl,,0.0
+999,2022,901-1000,Yantai University,cn,,0.0

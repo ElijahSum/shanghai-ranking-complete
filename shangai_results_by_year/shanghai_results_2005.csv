@@ -1,0 +1,501 @@
+,year,world_rank,institution,country_name,total_score,award
+0,2005,1,Harvard University,us,100.0,100.0
+1,2005,2,University of Cambridge,gb,73.6,99.8
+2,2005,3,Stanford University,us,73.4,41.1
+3,2005,4,"University of California, Berkeley",us,72.8,71.8
+4,2005,5,Massachusetts Institute of Technology (MIT),us,70.1,74.0
+5,2005,6,California Institute of Technology,us,67.1,59.2
+6,2005,7,Columbia University,us,62.3,79.4
+7,2005,8,Princeton University,us,60.9,63.4
+8,2005,9,University of Chicago,us,60.1,75.6
+9,2005,10,University of Oxford,gb,59.7,64.3
+10,2005,11,Yale University,us,56.9,52.1
+11,2005,12,Cornell University,us,54.6,46.5
+12,2005,13,"University of California, San Diego",us,51.0,17.7
+13,2005,14,"University of California, Los Angeles",us,50.6,27.3
+14,2005,15,University of Pennsylvania,us,50.2,35.5
+15,2005,16,University of Wisconsin - Madison,us,49.2,43.0
+16,2005,17,University of Washington,us,48.4,28.8
+17,2005,18,"University of California, San Francisco",us,47.8,0.0
+18,2005,19,The Johns Hopkins University,us,46.9,51.4
+19,2005,20,The University of Tokyo,jp,46.7,36.0
+20,2005,21,University of Michigan - Ann Arbor,us,44.9,43.0
+21,2005,22,Kyoto University,jp,43.8,39.7
+22,2005,23,The Imperial College of Science,gb,43.7,20.8
+23,2005,24,University of Toronto,ca,43.1,28.1
+24,2005,25,University of Illinois at Urbana-Champaign,us,42.8,41.6
+25,2005,26,University College London,gb,42.6,30.7
+26,2005,27,Swiss Federal Institute of Technology Zurich,ch,41.7,40.2
+27,2005,28,Washington University in St. Louis,us,40.7,25.1
+28,2005,29,New York University,us,38.8,33.8
+29,2005,30,Rockefeller University,us,38.2,22.6
+30,2005,31,Northwestern University,us,37.9,21.7
+31,2005,32,Duke University,us,37.7,20.8
+32,2005,32,University of Minnesota,us,37.7,36.0
+33,2005,34,"University of California, Santa Barbara",us,36.9,0.0
+34,2005,35,University of Colorado at Boulder,us,36.3,16.6
+35,2005,36,The University of Texas at Austin,us,35.5,21.7
+36,2005,37,University of British Columbia,ca,35.4,20.8
+37,2005,38,The University of Texas Southwestern Medical Center at Dallas,us,34.8,24.3
+38,2005,39,Pennsylvania State University - University Park,us,33.4,14.0
+39,2005,39,Vanderbilt University,us,33.4,12.5
+40,2005,41,"University of California, Davis",us,32.9,0.0
+41,2005,41,Utrecht University,nl,32.9,30.7
+42,2005,43,Rutgers,us,32.3,15.4
+43,2005,43,University of Pittsburgh,us,32.3,25.1
+44,2005,45,Karolinska Institute,se,32.1,30.7
+45,2005,46,Pierre and Marie Curie University - Paris 6,fr,32.0,35.7
+46,2005,47,The University of Edinburgh,gb,31.8,22.6
+47,2005,47,"University of California, Irvine",us,31.8,0.0
+48,2005,47,"University of Maryland, College Park",us,31.8,25.9
+49,2005,50,University of Southern California,us,31.7,0.0
+50,2005,51,University of Munich,de,31.4,37.1
+51,2005,52,Technical University Munich,de,31.3,43.0
+52,2005,53,The University of Manchester,gb,31.2,27.3
+53,2005,54,Carnegie Mellon University,us,30.8,30.7
+54,2005,55,University of North Carolina at Chapel Hill,us,30.3,12.5
+55,2005,56,The Australian National University,au,30.2,17.7
+56,2005,57,University of Copenhagen,dk,30.0,30.7
+57,2005,57,University of Florida,us,30.0,15.4
+58,2005,57,University of Zurich,ch,30.0,12.5
+59,2005,60,Uppsala University,se,29.9,25.9
+60,2005,61,University of Paris Sud (Paris 11),fr,29.4,33.2
+61,2005,62,Osaka University,jp,29.3,12.5
+62,2005,63,The Ohio State University - Columbus,us,29.2,17.7
+63,2005,64,University of Bristol,gb,28.8,10.9
+64,2005,65,The University of Sheffield,gb,28.6,23.5
+65,2005,65,University of Rochester,us,28.6,33.2
+66,2005,67,McGill University,ca,28.4,28.8
+67,2005,67,Moscow State University,ru,28.4,51.4
+68,2005,69,Case Western Reserve University,us,28.3,40.7
+69,2005,69,University of Oslo,no,28.3,25.9
+70,2005,71,University of Heidelberg,de,28.0,10.9
+71,2005,72,Leiden University,nl,27.9,25.1
+72,2005,73,Tohoku University,jp,27.8,18.8
+73,2005,73,University of Arizona,us,27.8,0.0
+74,2005,75,Purdue University - West Lafayette,us,27.7,18.8
+75,2005,76,University of Helsinki,fi,27.4,18.8
+76,2005,77,Michigan State University,us,26.9,12.5
+77,2005,78,Rice University,us,26.2,21.7
+78,2005,78,The Hebrew University of Jerusalem,il,26.2,33.2
+79,2005,80,Boston University,us,26.1,15.4
+80,2005,80,King's College London,gb,26.1,16.6
+81,2005,82,University of Melbourne,au,26.0,15.4
+82,2005,83,University of Nottingham,gb,25.9,15.4
+83,2005,84,University of Goettingen,de,25.8,38.7
+84,2005,85,University of Vienna,at,25.6,25.1
+85,2005,86,Brown University,us,25.4,0.0
+86,2005,87,Indiana University Bloomington,us,25.2,14.0
+87,2005,87,University of Basel,ch,25.2,25.9
+88,2005,89,Texas A&M University - College Station,us,25.1,0.0
+89,2005,90,McMaster University,ca,24.9,16.6
+90,2005,90,University of Freiburg,de,24.9,25.1
+91,2005,92,University of Strasbourg,fr,24.7,29.4
+92,2005,93,Ecole Normale Superieure - Paris,fr,24.6,47.8
+93,2005,93,Stockholm University,se,24.6,29.4
+94,2005,93,Tokyo Institute of Technology,jp,24.6,16.6
+95,2005,93,University of Utah,us,24.6,0.0
+96,2005,97,University of Roma - La Sapienza,it,24.5,16.6
+97,2005,98,University of Birmingham,gb,24.4,25.1
+98,2005,99,Lund University,se,24.3,29.4
+99,2005,100,Tufts University,us,23.9,18.8
+100,2005,101-152,Aarhus University,dk,,15.4
+101,2005,101-152,Arizona State University - Tempe,us,,0.0
+102,2005,101-152,Baylor College of Medicine,us,,0.0
+103,2005,101-152,Catholic University of Leuven,be,,0.0
+104,2005,101-152,Catholic University of Louvain,be,,14.0
+105,2005,101-152,College of France,fr,,15.4
+106,2005,101-152,Dartmouth College,us,,24.3
+107,2005,101-152,Emory University,us,,0.0
+108,2005,101-152,Georgia Institute of Technology,us,,16.6
+109,2005,101-152,Ghent University,be,,8.9
+110,2005,101-152,Hokkaido University,jp,,0.0
+111,2005,101-152,Kyushu University,jp,,0.0
+112,2005,101-152,Mayo Medical School,us,,0.0
+113,2005,101-152,Nagoya University,jp,,0.0
+114,2005,101-152,National University of Singapore,sg,,0.0
+115,2005,101-152,North Carolina State University - Raleigh,us,,0.0
+116,2005,101-152,Oregon State University,us,,15.4
+117,2005,101-152,Seoul National University,kr,,0.0
+118,2005,101-152,State University of New York at Stony Brook,us,,0.0
+119,2005,101-152,Technion-Israel Institute of Technology,il,,18.8
+120,2005,101-152,Tel Aviv University,il,,0.0
+121,2005,101-152,The University of Georgia,us,,0.0
+122,2005,101-152,The University of Glasgow,gb,,10.9
+123,2005,101-152,The University of Queensland,au,,16.6
+124,2005,101-152,University Libre Bruxelles,be,,28.1
+125,2005,101-152,University of Alberta,ca,,15.4
+126,2005,101-152,University of Amsterdam,nl,,8.9
+127,2005,101-152,University of Bonn,de,,19.8
+128,2005,101-152,"University of California, Riverside",us,,0.0
+129,2005,101-152,"University of California, Santa Cruz",us,,0.0
+130,2005,101-152,University of Frankfurt,de,,36.6
+131,2005,101-152,University of Geneva,ch,,29.4
+132,2005,101-152,University of Groningen,nl,,0.0
+133,2005,101-152,University of Hamburg,de,,16.6
+134,2005,101-152,University of Hawaii at Manoa,us,,0.0
+135,2005,101-152,University of Illinois at Chicago,us,,0.0
+136,2005,101-152,University of Iowa,us,,0.0
+137,2005,101-152,University of Leeds,gb,,22.6
+138,2005,101-152,University of Liverpool,gb,,23.5
+139,2005,101-152,University of Massachusetts Amherst,us,,17.7
+140,2005,101-152,University of Miami,us,,0.0
+141,2005,101-152,University of Milan,it,,22.6
+142,2005,101-152,University of Muenster,de,,25.1
+143,2005,101-152,University of Pisa,it,,18.8
+144,2005,101-152,University of Sao Paulo,br,,0.0
+145,2005,101-152,University of Sussex,gb,,0.0
+146,2005,101-152,University of Sydney,au,,19.8
+147,2005,101-152,University of Tsukuba,jp,,0.0
+148,2005,101-152,University of Tuebingen,de,,29.4
+149,2005,101-152,University of Virginia,us,,0.0
+150,2005,101-152,University of Wuerzburg,de,,25.1
+151,2005,101-152,Weizmann Institute of Science,il,,0.0
+152,2005,153-202,Autonomous University of Madrid,es,,19.8
+153,2005,153-202,Brandeis University,us,,25.1
+154,2005,153-202,Cardiff University,gb,,0.0
+155,2005,153-202,Colorado State University,us,,0.0
+156,2005,153-202,Erasmus University Rotterdam,nl,,0.0
+157,2005,153-202,Florida State University,us,,0.0
+158,2005,153-202,Iowa State University,us,,0.0
+159,2005,153-202,Joseph Fourier University (Grenoble 1),fr,,0.0
+160,2005,153-202,Mount Sinai School of Medicine,us,,0.0
+161,2005,153-202,National Autonomous University of Mexico,mx,,16.6
+162,2005,153-202,National Taiwan University,tw,,15.4
+163,2005,153-202,Oregon Health and Science University,us,,0.0
+164,2005,153-202,Queen's University,ca,,0.0
+165,2005,153-202,Rensselaer Polytechnic Institute,us,,16.6
+166,2005,153-202,Swiss Federal Institute of Technology of Lausanne,ch,,0.0
+167,2005,153-202,Technical University of Denmark,dk,,8.9
+168,2005,153-202,The University of Alabama at Birmingham,us,,0.0
+169,2005,153-202,The University of Calgary,ca,,0.0
+170,2005,153-202,The University of Connecticut - Storrs,us,,15.4
+171,2005,153-202,The University of Texas Health Science Center at Houston,us,,0.0
+172,2005,153-202,The University of Texas M. D. Anderson Cancer Center,us,,0.0
+173,2005,153-202,The University of Western Australia,au,,0.0
+174,2005,153-202,Tsinghua University,cn,,14.0
+175,2005,153-202,University of Barcelona,es,,0.0
+176,2005,153-202,University of Bern,ch,,16.6
+177,2005,153-202,University of Cincinnati,us,,0.0
+178,2005,153-202,University of Cologne,de,,0.0
+179,2005,153-202,University of Delaware,us,,14.0
+180,2005,153-202,University of East Anglia,gb,,17.7
+181,2005,153-202,University of Gothenburg,se,,0.0
+182,2005,153-202,University of Kiel,de,,15.4
+183,2005,153-202,University of Leicester,gb,,0.0
+184,2005,153-202,University of Leipzig,de,,17.7
+185,2005,153-202,University of Mainz,de,,0.0
+186,2005,153-202,University of Marburg,de,,17.7
+187,2005,153-202,"University of Maryland, Baltimore",us,,0.0
+188,2005,153-202,University of Montreal,ca,,15.4
+189,2005,153-202,University of Nebraska - Lincoln,us,,17.7
+190,2005,153-202,University of New South Wales,au,,0.0
+191,2005,153-202,University of Notre Dame,us,,16.6
+192,2005,153-202,University of Padua,it,,0.0
+193,2005,153-202,University of Paris Descartes (Paris 5),fr,,16.0
+194,2005,153-202,University of Paris Diderot (Paris 7),fr,,18.2
+195,2005,153-202,University of Southampton,gb,,0.0
+196,2005,153-202,University of Tennessee - Knoxville,us,,14.0
+197,2005,153-202,University of Turin,it,,21.7
+198,2005,153-202,University of Wageningen,nl,,0.0
+199,2005,153-202,Virginia Commonwealth University,us,,14.0
+200,2005,153-202,Virginia Polytechnic Institute and State University,us,,15.4
+201,2005,153-202,VU University Amsterdam,nl,,0.0
+202,2005,203-300,Chalmers University of Technology,se,,0.0
+203,2005,203-300,Charles University in Prague,cz,,15.4
+204,2005,203-300,Claude Bernard University Lyon 1,fr,,15.4
+205,2005,203-300,Complutense University of Madrid,es,,0.0
+206,2005,203-300,Dalhousie University,ca,,0.0
+207,2005,203-300,Delft University of Technology,nl,,15.4
+208,2005,203-300,Ecole Polytechnique,fr,,22.6
+209,2005,203-300,George Mason University,us,,0.0
+210,2005,203-300,Georgetown University,us,,0.0
+211,2005,203-300,Hiroshima University,jp,,0.0
+212,2005,203-300,Kansas State University,us,,0.0
+213,2005,203-300,Keio University,jp,,0.0
+214,2005,203-300,Kobe University,jp,,0.0
+215,2005,203-300,Lancaster University,gb,,0.0
+216,2005,203-300,Laval University,ca,,0.0
+217,2005,203-300,London School of Economics and Political Science,gb,,19.8
+218,2005,203-300,Louisiana State University - Baton Rouge,us,,0.0
+219,2005,203-300,Macquarie University,au,,0.0
+220,2005,203-300,Monash University,au,,0.0
+221,2005,203-300,National and Kapodistrian University of Athens,gr,,0.0
+222,2005,203-300,Newcastle University,gb,,0.0
+223,2005,203-300,Norwegian University of Science and Technology,no,,18.8
+224,2005,203-300,Okayama University,jp,,0.0
+225,2005,203-300,Paul Sabatier University (Toulouse 3),fr,,0.0
+226,2005,203-300,Peking University,cn,,0.0
+227,2005,203-300,Queen Mary,gb,,24.3
+228,2005,203-300,Queen's University Belfast,gb,,23.5
+229,2005,203-300,Radboud University Nijmegen,nl,,0.0
+230,2005,203-300,Royal Institute of Technology,se,,0.0
+231,2005,203-300,RWTH Aachen University,de,,6.3
+232,2005,203-300,State University of Campinas,br,,0.0
+233,2005,203-300,State University of New York at Albany,us,,0.0
+234,2005,203-300,State University of New York at Buffalo,us,,0.0
+235,2005,203-300,Swedish University of Agricultural Sciences,se,,0.0
+236,2005,203-300,Syracuse University,us,,0.0
+237,2005,203-300,Technical University of Berlin,de,,23.5
+238,2005,203-300,The Chinese University of Hong Kong,hk,,0.0
+239,2005,203-300,The George Washington University,us,,15.4
+240,2005,203-300,The Hong Kong University of Science and Technology,hk,,0.0
+241,2005,203-300,The University of Adelaide,au,,10.9
+242,2005,203-300,The University of Auckland,nz,,17.7
+243,2005,203-300,The University of Dundee,gb,,0.0
+244,2005,203-300,The University of Hong Kong,hk,,0.0
+245,2005,203-300,The University of New Mexico - Albuquerque,us,,0.0
+246,2005,203-300,The University of Reading,gb,,0.0
+247,2005,203-300,The University of Texas Health Science Center at San Antonio,us,,0.0
+248,2005,203-300,The University of Texas Medical Branch at Galveston,us,,0.0
+249,2005,203-300,Thomas Jefferson University,us,,0.0
+250,2005,203-300,Trinity College Dublin,ie,,15.4
+251,2005,203-300,Tulane University,us,,0.0
+252,2005,203-300,Umea University,se,,0.0
+253,2005,203-300,University of Alaska - Fairbanks,us,,0.0
+254,2005,203-300,University of Antwerp,be,,0.0
+255,2005,203-300,University of Bochum,de,,0.0
+256,2005,203-300,University of Bologna,it,,0.0
+257,2005,203-300,University of Bordeaux 1,fr,,8.9
+258,2005,203-300,University of Buenos Aires,ar,,21.7
+259,2005,203-300,University of Cape Town,za,,25.1
+260,2005,203-300,University of Colorado Health Science Center,us,,0.0
+261,2005,203-300,University of Durham,gb,,0.0
+262,2005,203-300,University of Erlangen-Nuremberg,de,,0.0
+263,2005,203-300,University of Florence,it,,0.0
+264,2005,203-300,University of Genova,it,,0.0
+265,2005,203-300,University of Guelph,ca,,0.0
+266,2005,203-300,University of Halle-Wittenberg,de,,6.3
+267,2005,203-300,University of Houston,us,,0.0
+268,2005,203-300,University of Innsbruck,at,,0.0
+269,2005,203-300,University of Kansas - Lawrence,us,,15.4
+270,2005,203-300,University of Karlsruhe,de,,6.3
+271,2005,203-300,University of Kentucky,us,,14.0
+272,2005,203-300,University of Liege,be,,10.9
+273,2005,203-300,University of Manitoba,ca,,0.0
+274,2005,203-300,University of Massachusetts Medical School - Worcester,us,,0.0
+275,2005,203-300,University of Medicine and Dentistry New Jersey,us,,0.0
+276,2005,203-300,University of Missouri - Columbia,us,,12.5
+277,2005,203-300,University of Montpellier 2,fr,,14.0
+278,2005,203-300,University of Naples Federico II,it,,0.0
+279,2005,203-300,University of Oregon,us,,14.0
+280,2005,203-300,University of Ottawa,ca,,0.0
+281,2005,203-300,University of Saskatchewan,ca,,12.5
+282,2005,203-300,University of South Carolina - Columbia,us,,0.0
+283,2005,203-300,University of South Florida,us,,0.0
+284,2005,203-300,University of Southern Denmark,dk,,0.0
+285,2005,203-300,University of St Andrews,gb,,14.0
+286,2005,203-300,University of Stuttgart,de,,17.7
+287,2005,203-300,University of Szeged,hu,,0.0
+288,2005,203-300,University of Turku,fi,,0.0
+289,2005,203-300,University of Vermont,us,,17.7
+290,2005,203-300,University of Victoria,ca,,0.0
+291,2005,203-300,University of Warwick,gb,,0.0
+292,2005,203-300,University of Waterloo,ca,,0.0
+293,2005,203-300,University of York,gb,,0.0
+294,2005,203-300,Wake Forest University,us,,0.0
+295,2005,203-300,Washington State University - Pullman,us,,0.0
+296,2005,203-300,Wayne State University,us,,0.0
+297,2005,203-300,Western University,ca,,0.0
+298,2005,203-300,Yeshiva University,us,,0.0
+299,2005,203-300,Yonsei University,kr,,0.0
+300,2005,301-400,Aristotle University of Thessaloniki,gr,,0.0
+301,2005,301-400,Auburn University,us,,0.0
+302,2005,301-400,Bar-Ilan University,il,,0.0
+303,2005,301-400,Ben-Gurion University of the Negev,il,,0.0
+304,2005,301-400,Brigham Young University,us,,12.5
+305,2005,301-400,Carleton University,ca,,0.0
+306,2005,301-400,Chiba University,jp,,0.0
+307,2005,301-400,City University of Hong Kong,hk,,0.0
+308,2005,301-400,City University of New York City College,us,,37.1
+309,2005,301-400,Clemson University,us,,0.0
+310,2005,301-400,Dresden University of Technology,de,,0.0
+311,2005,301-400,Ecole National Superieure Mines - Paris,fr,,18.8
+312,2005,301-400,Ecole Normale Superieure - Lyon,fr,,0.0
+313,2005,301-400,Eindhoven University of Technology,nl,,0.0
+314,2005,301-400,Eotvos Lorand University,hu,,19.8
+315,2005,301-400,Federal University of Rio de Janeiro,br,,0.0
+316,2005,301-400,Fudan University,cn,,0.0
+317,2005,301-400,Gunma University,jp,,0.0
+318,2005,301-400,Henri Poincare University (Nancy 1),fr,,15.4
+319,2005,301-400,Indian Institute of Science,in,,0.0
+320,2005,301-400,Indiana University-Purdue University at Indianapolis,us,,0.0
+321,2005,301-400,Industrial Physics and Chemistry Higher Educational Institution - Paris,fr,,10.9
+322,2005,301-400,International School for Advanced Studies,it,,0.0
+323,2005,301-400,Jagiellonian University,pl,,0.0
+324,2005,301-400,Kanazawa University,jp,,0.0
+325,2005,301-400,Korea Advanced Institute of Science and Technology,kr,,0.0
+326,2005,301-400,Linkoping University,se,,0.0
+327,2005,301-400,London School of Hygiene and Tropical Medicine,gb,,10.9
+328,2005,301-400,Medical College of Wisconsin,us,,0.0
+329,2005,301-400,Medical University of South Carolina,us,,0.0
+330,2005,301-400,Nagasaki University,jp,,0.0
+331,2005,301-400,Nanjing University,cn,,0.0
+332,2005,301-400,Nanyang Technological University,sg,,0.0
+333,2005,301-400,National Cheng Kung University (NCKU),tw,,0.0
+334,2005,301-400,National Tsing Hua University,tw,,16.6
+335,2005,301-400,Nihon University,jp,,0.0
+336,2005,301-400,Niigata University,jp,,0.0
+337,2005,301-400,Pohang University of Science and Technology,kr,,0.0
+338,2005,301-400,Polytechnic Institute of Milan,it,,10.9
+339,2005,301-400,Royal Holloway,gb,,0.0
+340,2005,301-400,Saint Louis University,us,,0.0
+341,2005,301-400,Saint Petersburg State University,ru,,24.3
+342,2005,301-400,San Diego State University,us,,0.0
+343,2005,301-400,Scuola Normale Superiore - Pisa,it,,0.0
+344,2005,301-400,Shanghai Jiao Tong University,cn,,0.0
+345,2005,301-400,Simon Fraser University,ca,,0.0
+346,2005,301-400,State University of New York Health Science Center at Brooklyn,us,,0.0
+347,2005,301-400,Stockholm School of Economics,se,,0.0
+348,2005,301-400,Sungkyunkwan University,kr,,0.0
+349,2005,301-400,Technical University Darmstadt,de,,10.9
+350,2005,301-400,Technical University of Braunschweig,de,,16.6
+351,2005,301-400,Temple University,us,,0.0
+352,2005,301-400,Texas Tech University,us,,0.0
+353,2005,301-400,The Hong Kong Polytechnic University,hk,,0.0
+354,2005,301-400,The Open University,gb,,0.0
+355,2005,301-400,The University of Montana - Missoula,us,,8.9
+356,2005,301-400,The University of Texas at Dallas,us,,0.0
+357,2005,301-400,The University of Tokushima,jp,,0.0
+358,2005,301-400,Tokyo Medical and Dental University,jp,,0.0
+359,2005,301-400,Tokyo University of Agriculture and Technology,jp,,0.0
+360,2005,301-400,University of Aberdeen,gb,,0.0
+361,2005,301-400,University of Bath,gb,,0.0
+362,2005,301-400,University of Bayreuth,de,,0.0
+363,2005,301-400,University of Bergen,no,,0.0
+364,2005,301-400,University of Bielefeld,de,,0.0
+365,2005,301-400,University of Cagliari,it,,0.0
+366,2005,301-400,University of Chile,cl,,10.9
+367,2005,301-400,University of Duesseldorf,de,,0.0
+368,2005,301-400,University of Essex,gb,,17.7
+369,2005,301-400,University of Ferrara,it,,0.0
+370,2005,301-400,University of Graz,at,,12.5
+371,2005,301-400,University of Greifswald,de,,0.0
+372,2005,301-400,University of Konstanz,de,,0.0
+373,2005,301-400,University of Lausanne,ch,,0.0
+374,2005,301-400,University of Nebraska Medical Center,us,,0.0
+375,2005,301-400,University of Nevada - Reno,us,,0.0
+376,2005,301-400,University of New Hampshire - Durham,us,,0.0
+377,2005,301-400,University of Newcastle,au,,0.0
+378,2005,301-400,University of Oklahoma - Norman,us,,0.0
+379,2005,301-400,University of Otago,nz,,0.0
+380,2005,301-400,University of Palermo,it,,0.0
+381,2005,301-400,University of Paris Dauphine (Paris 9),fr,,0.0
+382,2005,301-400,University of Pavia,it,,0.0
+383,2005,301-400,University of Perugia,it,,0.0
+384,2005,301-400,University of Regensburg,de,,0.0
+385,2005,301-400,University of Rhode Island,us,,0.0
+386,2005,301-400,University of Roma - Tor Vergata,it,,0.0
+387,2005,301-400,University of Science and Technology of China,cn,,0.0
+388,2005,301-400,University of the Mediterranean (Aix-Marseille 2),fr,,0.0
+389,2005,301-400,University of the Witwatersrand,za,,25.1
+390,2005,301-400,University of Twente,nl,,0.0
+391,2005,301-400,University of Ulm,de,,0.0
+392,2005,301-400,University of Valencia,es,,0.0
+393,2005,301-400,University of Warsaw,pl,,17.7
+394,2005,301-400,University of Wyoming,us,,0.0
+395,2005,301-400,Utah State University,us,,0.0
+396,2005,301-400,Vienna University of Technology,at,,0.0
+397,2005,301-400,Waseda University,jp,,0.0
+398,2005,301-400,Yamaguchi University,jp,,0.0
+399,2005,301-400,Zhejiang University,cn,,0.0
+400,2005,401-500,Aalto University,fi,,0.0
+401,2005,401-500,Autonomous University of Barcelona,es,,0.0
+402,2005,401-500,Boston College,us,,0.0
+403,2005,401-500,Drexel University,us,,0.0
+404,2005,401-500,Ehime University,jp,,0.0
+405,2005,401-500,Flinders University,au,,0.0
+406,2005,401-500,Florida International University,us,,0.0
+407,2005,401-500,Gifu University,jp,,0.0
+408,2005,401-500,Hacettepe University,tr,,0.0
+409,2005,401-500,Hannover Medical School,de,,0.0
+410,2005,401-500,Hanyang University,kr,,0.0
+411,2005,401-500,Howard University,us,,15.4
+412,2005,401-500,Indian Institute of Technology Kharagpur,in,,0.0
+413,2005,401-500,Istanbul University,tr,,0.0
+414,2005,401-500,Jilin University,cn,,0.0
+415,2005,401-500,Juntendo University,jp,,0.0
+416,2005,401-500,Kagoshima University,jp,,0.0
+417,2005,401-500,Kent State University,us,,0.0
+418,2005,401-500,Korea University,kr,,0.0
+419,2005,401-500,Kumamoto University,jp,,0.0
+420,2005,401-500,Kyungpook National University,kr,,0.0
+421,2005,401-500,La Trobe University,au,,0.0
+422,2005,401-500,Lehigh University,us,,0.0
+423,2005,401-500,Loyola University Chicago,us,,0.0
+424,2005,401-500,Massey University,nz,,0.0
+425,2005,401-500,Medical College of Georgia,us,,0.0
+426,2005,401-500,Medical University of Graz,at,,0.0
+427,2005,401-500,Medical University of Innsbruck,at,,0.0
+428,2005,401-500,Memorial University of Newfoundland,ca,,0.0
+429,2005,401-500,Michigan Technological University,us,,12.5
+430,2005,401-500,Montana State University - Bozeman,us,,0.0
+431,2005,401-500,Murdoch University,au,,0.0
+432,2005,401-500,Nara Institute of Science and Technology,jp,,0.0
+433,2005,401-500,National Chiao Tung University,tw,,0.0
+434,2005,401-500,National Yang Ming University,tw,,0.0
+435,2005,401-500,New Jersey Institute of Technology,us,,0.0
+436,2005,401-500,New Mexico State University,us,,0.0
+437,2005,401-500,Northeastern University,us,,0.0
+438,2005,401-500,Northern Arizona University,us,,0.0
+439,2005,401-500,Old Dominion University,us,,0.0
+440,2005,401-500,Osaka City University,jp,,0.0
+441,2005,401-500,Osaka Prefecture University,jp,,0.0
+442,2005,401-500,Polytechnic University of Turin,it,,0.0
+443,2005,401-500,Polytechnic University of Valencia,es,,0.0
+444,2005,401-500,Saarland University,de,,0.0
+445,2005,401-500,Sao Paulo State University,br,,0.0
+446,2005,401-500,Southern Methodist University,us,,15.4
+447,2005,401-500,Swansea Univ,gb,,0.0
+448,2005,401-500,The College of William and Mary,us,,0.0
+449,2005,401-500,The Graduate University for Advanced Studies,jp,,0.0
+450,2005,401-500,The Royal Veterinary and Agricultural University,dk,,0.0
+451,2005,401-500,The University of Akron,us,,0.0
+452,2005,401-500,The University of Connecticut Health Center,us,,0.0
+453,2005,401-500,The University of Memphis,us,,0.0
+454,2005,401-500,Tokyo Metropolitan University,jp,,0.0
+455,2005,401-500,University College Cork,ie,,0.0
+456,2005,401-500,University College Dublin,ie,,0.0
+457,2005,401-500,University of Bari,it,,0.0
+458,2005,401-500,University of Bradford,gb,,0.0
+459,2005,401-500,University of Bremen,de,,0.0
+460,2005,401-500,University of Calcutta,in,,15.4
+461,2005,401-500,University of Canterbury,nz,,0.0
+462,2005,401-500,University of Central Florida,us,,0.0
+463,2005,401-500,University of Duisburg-Essen,de,,0.0
+464,2005,401-500,Exeter University,gb,,0.0
+465,2005,401-500,University of Fribourg,ch,,0.0
+466,2005,401-500,University of Giessen,de,,0.0
+467,2005,401-500,University of Granada,es,,0.0
+468,2005,401-500,University of Haifa,il,,0.0
+469,2005,401-500,University of Idaho,us,,0.0
+470,2005,401-500,University of Jena,de,,0.0
+471,2005,401-500,University of Jyvaskyla,fi,,0.0
+472,2005,401-500,University of KwaZulu-Natal,za,,0.0
+473,2005,401-500,University of Lisbon,pt,,0.0
+474,2005,401-500,University of Louisville,us,,0.0
+475,2005,401-500,University of Maastricht,nl,,0.0
+476,2005,401-500,University of Maine,us,,0.0
+477,2005,401-500,"University of Maryland, Baltimore County",us,,0.0
+478,2005,401-500,University of Mississippi,us,,0.0
+479,2005,401-500,University of Oulu,fi,,0.0
+480,2005,401-500,University of Parma,it,,0.0
+481,2005,401-500,University of Pretoria,za,,0.0
+482,2005,401-500,University of Provence (Aix-Marseille 1),fr,,8.9
+483,2005,401-500,University of Quebec,ca,,0.0
+484,2005,401-500,University of Rostock,de,,0.0
+485,2005,401-500,University of Sevilla,es,,0.0
+486,2005,401-500,University of Sherbrooke,ca,,0.0
+487,2005,401-500,University of Siena,it,,0.0
+488,2005,401-500,University of Surrey,gb,,0.0
+489,2005,401-500,University of Tasmania,au,,0.0
+490,2005,401-500,University of Tennessee Health Science Center,us,,0.0
+491,2005,401-500,University of Trieste,it,,0.0
+492,2005,401-500,University of Tromso,no,,0.0
+493,2005,401-500,University of Wisconsin - Milwaukee,us,,14.0
+494,2005,401-500,University of Wroclaw,pl,,8.9
+495,2005,401-500,University of Zaragoza,es,,0.0
+496,2005,401-500,Victor Segalen Bordeaux 2 University,fr,,0.0
+497,2005,401-500,Victoria University of Wellington,nz,,15.4
+498,2005,401-500,Vrije University Brussel,be,,0.0
+499,2005,401-500,York University,ca,,0.0
